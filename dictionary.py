@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# -*- coding: iso-8859-15 -*-
+# -*- coding: utf-8 -*-
 def only_roman_chars(s):
     try:
         s.encode("iso-8859-1")
@@ -30,7 +30,4 @@ for line in open('raw_dictionary.txt', 'r').readlines():
       dictionary[char] = list()
   elif len(line) > 1 and only_roman_chars(line):
     dictionary[char].append(EnglishWord(line, pos))
-
-for engword in dictionary['日']:
-  print engword.word, engword.pos
 
