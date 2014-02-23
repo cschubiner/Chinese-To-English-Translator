@@ -16,7 +16,7 @@ chunk = u"妈妈带我去公园散步"
 #for token,tag in token_tags:
 #   print token,tag
 
-text = nltk.word_tokenize(chunk)
+text = nltk.word_tokenize(chunk.encode('utf-8'))
 st = NERTagger('chinese-distsim.tagger', 'stanford-postagger-3.1.4.jar')
 poop = st.tag(text)
 print poop
