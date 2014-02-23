@@ -20,7 +20,7 @@ class EnglishWord:
 
 char = ''
 pos = ''
-partsOfSpeech = set(['verb', 'noun', 'adverb', 'preposition', 'adjective', 'conjunction', 'number'])
+partsOfSpeech = set(['verb', 'auxiliary verb', 'pronoun', 'noun', 'adverb', 'preposition', 'adjective', 'conjunction', 'article', 'abbreviation', 'number'])
 for line in open('raw_dictionary.txt', 'r').readlines():
   line = line.strip()
   if '-' in line and line.split('-')[1].strip() in partsOfSpeech:
@@ -28,6 +28,7 @@ for line in open('raw_dictionary.txt', 'r').readlines():
     char = line.split('-')[0].strip()
     if char not in dictionary:
       dictionary[char] = list()
-  elif len(line) > 1 and only_roman_chars(line):
+  elif len(line) >= 1 and only_roman_chars(line):
     dictionary[char].append(EnglishWord(line, pos))
 
+# print dictionary['我']
