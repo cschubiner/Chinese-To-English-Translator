@@ -28,9 +28,10 @@ def translateSentenceNoSegmentation(sentence):
   return ret
 
 
-i = 0
-for line in codecs.open('corpus_dev_segmented.txt', encoding='utf-8').readlines():
-  i += 1
-  print(str(i) + '.', translateSentence(line))
-  # translateSentence(line)
-  # break
+if __name__ == "__main__":
+  i = 0
+  for line in codecs.open('corpus_dev_segmented.txt', encoding='utf-8').readlines():
+    i += 1
+    print(str(i) + '.', translateSentence(line))
+    # translateSentence(line)
+    # break

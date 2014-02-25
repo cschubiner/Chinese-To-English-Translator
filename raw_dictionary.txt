@@ -4097,6 +4097,8 @@ quilt
 blanket
 毯, 毯子, 被, 被子
 被-verb
+has been
+have been
 cover
 盖, 覆盖, 罩, 覆, 掩盖, 被
 wear
