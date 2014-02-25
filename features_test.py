@@ -22,6 +22,9 @@ st = POSTagger('chinese-distsim.tagger', 'stanford-postagger-3.1.4.jar')
 print (text)
 poop = st.tag(text)
 print (poop)
+for w in poop:
+  # print type(w[1]), type(w[1].decode('utf-8'))
+  print w[1].decode('utf-8'),
 #tagger = pickle.load(open('sinica_treebank_brill_aubt.pickle'))
 #poop = tagger.tag(text)
 #print poop

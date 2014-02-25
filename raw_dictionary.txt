@@ -4584,4 +4584,148 @@ traditional Chinese calendar
 农历, 夏历
 
 
+新年-noun
+New Year
+新年, 年
+
+新加坡-noun
+Singapore
+新加坡
+
+
+主要-adjective
+main
+主要, 主, 最主要, 主干, 正, 优势
+principal
+主要, 首要的
+primary
+主要, 初级, 主, 原, 第一, 最初
+chief
+首席, 主要, 首要的
+major
+主要, 重大, 大, 重要, 大型
+
+精彩-adjective
+wonderful
+精彩, 美妙, 奇妙, 妙, 优秀, 雄伟
+brilliant
+辉煌, 灿烂, 精彩, 卓越, 杰出, 优秀
+excellent
+优, 优秀, 优良, 卓越, 精彩, 佳
+splendid
+锦绣, 灿烂, 辉煌, 精彩, 优秀, 漂亮
+amazing
+惊人, 了不起, 精彩, 异乎寻常, 旖旎, 荧
+astonishing
+惊人, 意想不到, 可惊, 意外, 精彩, 异
+remarkable
+卓越, 出色, 杰出, 精彩, 异常, 异乎寻常
+bright
+光明, 辉, 光亮, 明, 聪明, 精彩
+sparkling
+精彩, 皦, 晶, 发泡的
+glittering
+晶, 精彩, 荧
+
+节日-noun
+festival
+节, 节日, 节庆, 佳节, 欢宴
+holiday
+假日, 节日, 放假, 假, 节, 节庆
+gala
+节日
+
+之一
+one
+一, 之一, 壹
+之一-noun
+one of
+之一
+one out of a multitude
+之一
+
+
+未来-noun
+future
+未来, 将来, 前途, 前程
+tomorrow
+明天, 明日, 未来
+未来-adjective
+next
+下, 未来, 下面, 明, 翌, 下边
+coming
+未来, 来
+approaching
+未来, 垂
+
+美国-noun
+United States
+美国
+America
+美国, 美洲, 新大陆
+United States of America
+美国
+美国-abbreviation
+USA
+美国, 美
+US
+美, 美国
+
+总统-noun
+president
+主席, 总统, 校长, 议长, 总会会长
+总统-adjective
+presidential
+总统, 首长的
+presidial
+总统, 社长的, 首长的
+
+奥巴马-noun
+Obama
+
+需要-noun
+need
+需要, 必须, 用, 意, 意愿
+want
+需要, 意愿, 缺乏, 意
+demand
+需求, 要求, 需要, 查询
+requirement
+需求, 需要, 条件, 必要条件
+demands
+需求, 需要
+需要-verb
+need
+需要, 需, 要有, 得
+demand
+需求, 要求, 需要, 索, 索取, 要
+want
+想, 要, 需要, 欲, 愿意, 需
+需要-adjective
+required
+需要, 必要
+
+送给-verb
+sent
+
+加拿大-noun
+Canada
+加拿大
+
+
+总理-noun
+prime minister
+首相, 总理
+premier
+总理, 主席
+
+
+哈珀-noun
+Harper
+
+啤酒-noun
+beer
+啤酒, 啤
+brewage
+酿造, 啤酒
 

@@ -1,9 +1,14 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+romanCharSet = set('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ')
 def only_roman_chars(s):
     try:
-        s.encode("iso-8859-1")
-        return True
+      return len(s) > 1 or s in romanCharSet
+        # s.encode("iso-8859-1")
+        # for c in s:
+        #   if ord(c) >= 0x4e00:
+        #     return True
+        # return False
     except UnicodeDecodeError:
         return False
 
@@ -31,4 +36,4 @@ for line in open('raw_dictionary.txt', 'r').readlines():
   elif len(line) >= 1 and only_roman_chars(line):
     dictionary[char].append(EnglishWord(line, pos))
 
-# print dictionary['我']
+# print (dictionary['我'])

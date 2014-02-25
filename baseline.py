@@ -12,8 +12,9 @@ chinDict = dictionary.getdictionary()
 def translateSentence(sentence):
   ret = ''
   for char in sentence:
-    char = char.encode('utf-8')
+    # char = char.encode('utf-8')
     if char in chinDict:
+      # print(chinDict[char][0].word)
       ret += chinDict[char][0].word #use the most frequent translation
       ret += ' '
     else:
@@ -32,4 +33,6 @@ i = 0
 for line in codecs.open('corpus_dev.txt', encoding='utf-8').readlines():
   # line = line.encode('utf-8')
   i += 1
-  print str(i) + '.', translateSentence(line)
+  print(str(i) + '.', translateSentence(line))
+  # translateSentence(line)
+  # break
