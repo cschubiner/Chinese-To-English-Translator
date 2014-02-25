@@ -130,14 +130,13 @@ per
 
 
 年-noun
-in
 year
 New Year
 age
 harvest
 
-
-
+年-preposition
+in
 
 
 估-verb
