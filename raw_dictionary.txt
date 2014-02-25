@@ -4169,3 +4169,419 @@ grant a reward
 赏赐, 赏
 recognize
 认识, 承认, 认, 认清, 辨认, 赏
+
+从即日-phrase
+from now
+
+烟草-noun
+tobacco
+烟草, 烟, 抽烟, 菸
+pipe tobacco
+烟草, 斗烟丝
+
+提高-verb
+improve
+提高, 改善, 改进, 健全, 改良, 进步
+increase
+提高, 增长, 增, 增强, 加, 加强
+enhance
+提高, 增进
+raise
+提高, 提出, 养, 募集, 升起, 抬高
+heighten
+提高, 增高
+提高-noun
+elevation
+海拔, 标高, 提高, 高地
+exaltation
+提高, 升高, 喜悦
+
+每年-noun
+each year
+每年
+每年-adverb
+per year
+每年
+every year
+每年, 念念, 每年一度
+yearly
+每年, 全年
+
+估计-verb
+estimate
+估计, 预计, 估, 估量, 量, 测度
+reckon
+估计, 算, 推算, 推想, 筹算, 合算
+gauge
+测量, 估计
+appraise
+评价, 鉴定, 评, 估价, 褒贬, 估计
+
+
+带来-verb
+bring
+带来, 产生, 促使, 拿来, 输送, 停下
+
+额外-adjective
+additional
+额外, 另外, 补充, 外加, 附带, 异
+extra
+额外, 外加, 余, 异, 附加的
+added
+额外, 异, 附加的, 更多的, 合计的
+额外-noun
+supernumerary
+额外
+superfluity
+额外
+
+税收-noun
+tax
+征税, 税, 税收, 税额, 赋税
+taxation
+税收, 征税, 赋税, 赋
+duty
+税, 责任, 义务, 任务, 关税, 税收
+taxing
+征税, 税收, 赋税, 赋
+dues
+税, 税收
+customs
+海关, 关税, 税, 税收
+
+酒精-noun
+alcohol
+酒精, 醇, 酒
+
+带来-verb
+bring
+带来, 产生, 促使, 拿来, 输送, 停下
+
+额外-adjective
+additional
+额外, 另外, 补充, 外加, 附带, 异
+extra
+额外, 外加, 余, 异, 附加的
+added
+额外, 异, 附加的, 更多的, 合计的
+额外-noun
+supernumerary
+额外
+superfluity
+额外
+
+税收-noun
+tax
+征税, 税, 税收, 税额, 赋税
+taxation
+税收, 征税, 赋税, 赋
+duty
+税, 责任, 义务, 任务, 关税, 税收
+taxing
+征税, 税收, 赋税, 赋
+dues
+税, 税收
+customs
+海关, 关税, 税, 税收
+
+政府-noun
+government
+政府, 内阁, 辖
+
+正在-conjunction
+while
+而, 却, 当时, 正在, 际, 斯
+正在-preposition
+in the process of
+正在, 中
+
+开始-verb
+start
+开始, 启动, 起动, 始, 开头, 开工
+begin
+开始, 开头, 始, 起, 开工, 开幕
+commence
+开始, 着手, 发源
+initiate
+发起, 开始, 发动, 倡导, 开创, 首创
+start off
+开始, 出发
+开始-adjective
+beginning
+开始
+starting
+开始
+initial
+初始, 初步, 最初, 开始
+开始-noun
+beginning
+开始, 开头, 初, 初期, 开端, 始
+first
+开始, 开端, 起点, 一日
+starting
+开始
+gambit
+话题, 开始
+
+透明-adjective
+transparent
+透明, 透亮, 清澈, 澄清, 澄, 滢
+open
+公开, 开阔, 敞, 通, 
+
+革命-noun
+revolution
+革命, 公转
+
+
+下午-noun
+afternoon
+下午, 昃, 后半天
+下午-abbreviation
+p.m.
+下午
+
+
+妈妈-noun
+mom
+妈妈, 妈, 妈咪
+mama
+妈妈, 妈, 妈咪, 嬷, 性感的成熟女人
+momma
+妈妈, 妈, 妈咪
+mamma
+妈妈, 乳房, 妈, 嬷, 妈咪, 性感的成熟女
+
+公园-noun
+park
+公园, 园林, 苑, 囿
+public park
+公园
+
+散步-verb
+take a walk
+散步, 溜达
+go for a walk
+散步, 溜达
+
+奥林匹克-adjective
+Olympic
+奥林匹克
+
+运动会-noun
+games
+sports competition
+运动会, 体育比赛
+
+举办-verb
+hold
+保持, 持有, 举行, 保留, 抱, 举办
+conduct
+进行, 举办, 办理, 导, 引导, 指挥
+run
+运行, 执行, 经营, 跑, 办, 举办
+
+
+会期-noun
+meeting day
+会期
+session
+会期, 学级
+
+超过-verb
+exceed
+超过, 超越, 超出, 超, 逾, 优于
+surpass
+超过, 超越, 优于, 超, 赛过, 越
+outstrip
+超过, 赶过
+outpace
+超过, 赶过
+outdistance
+超过, 赶过, 抛在后头
+outride
+超过, 赶过
+超过-noun
+overtake
+超过, 赶过
+
+油条-noun
+Fritters
+
+简单-adjective
+simple
+简单, 简易, 简, 单纯, 朴素, 朴实
+uncomplicated
+简单
+casual
+随便, 漫不经心, 简单, 马虎, 马马虎虎, 轻淡
+common
+共同, 常见, 普通, 共, 一般, 简单
+简单-noun
+simplicity
+简单, 简朴, 稚气
+simpleness
+简单
+briefness
+简单, 短促
+
+美好-adjective
+fine
+精细, 精, 细, 优良, 精美, 美好
+happy
+快乐, 高兴, 幸福, 欢乐, 愉快, 美好
+glorious
+辉煌, 美好, 壮丽, 耀, 锦绣, 灿
+
+昆明-noun
+Kunming
+昆明
+
+动物园-noun
+zoo
+动物园
+
+饲养员-noun
+breeder
+groom
+马夫, 倌, 饲养员
+stableman
+马夫, 饲养员
+cattle farm worker
+饲养员
+farmyard worker
+饲养员
+
+大象-noun
+elephants
+
+踩踏-noun
+stampede
+
+死亡-noun
+death
+死亡, 终, 诛, 长眠, 死命
+decease
+死亡
+mortality
+死亡, 死亡数目
+doom
+厄运, 死命, 死亡, 运, 殒命, 运气
+死亡-adverb
+deadly
+死亡, 死
+死亡-verb
+decease
+死亡, 终
+pass out
+昏倒, 死, 逝世, 死亡, 昏过去
+
+该机-phrase
+the aircraft
+
+配件-noun
+fitting
+配件, 试
+replacement
+复位, 配件, 替身, 替补员, 条施
+
+充电器-noun
+charger
+充电器, 袭击者, 弹夹
+replenisher
+充电器
+
+耳机-noun
+headset
+耳机, 听筒, 头戴耳机, 头戴受话器
+headphone
+耳机, 听筒, 头戴耳机, 头戴受话器
+earphone
+耳机, 听筒
+earpiece
+听筒, 耳机, 耳垂
+
+数据线-noun
+data line
+
+标配-phrase
+standard
+
+中国-noun
+China
+中国, 华, 中华
+
+不实行-phrase
+not practiced
+
+节能-phrase
+saving
+
+政策-noun
+policy
+政策, 方针, 学说, 保险单, 筴
+
+巨大-adjective
+huge
+巨大, 庞大, 大, 极大, 巨, 硕大
+immense
+巨大, 庞大, 广大, 庞, 硕大, 澔
+enormous
+巨大, 庞大, 极大, 硕大, 庞, 硕大无朋
+tremendous
+巨大, 很大, 庞大, 巨, 优秀, 庞
+gigantic
+巨大, 庞大, 巨, 庞, 灏
+very large
+巨大, 巨
+
+能源-noun
+energy
+能源, 能量, 能, 精力, 活力, 劲
+power source
+电源, 能源
+
+需求-noun
+demand
+需求, 要求, 需要, 查询
+requirement
+需求, 需要, 条件, 必要条件
+demands
+需求, 需要
+需求-verb
+demand
+需求, 要求, 需要, 索, 索取, 要
+require
+需求, 要求, 需, 要有, 命令, 责
+
+水资源-noun
+water
+
+面临-verb
+be confronted with
+面临
+be faced
+面临, 当前
+
+压力-noun
+pressure
+压力, 压强, 应力, 迮, 镇, 应激状态
+overwhelming force
+压力
+
+华人-noun
+Chinese
+中文, 汉语, 华人, 华语, 汉
+ethnic Chinese
+华人, 华裔
+Chinaman
+华人
+
+农历-noun
+lunar calendar
+农历, 阴历, 夏历, 旧历, 太阴历
+traditional Chinese calendar
+农历, 夏历
+
+
+

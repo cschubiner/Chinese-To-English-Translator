@@ -20,7 +20,7 @@ class EnglishWord:
 
 char = ''
 pos = ''
-partsOfSpeech = set(['verb', 'auxiliary verb', 'pronoun', 'noun', 'adverb', 'preposition', 'adjective', 'conjunction', 'article', 'abbreviation', 'number'])
+partsOfSpeech = set(['verb', 'auxiliary verb', 'pronoun', 'noun', 'adverb', 'preposition', 'adjective', 'conjunction', 'article', 'abbreviation', 'number', 'phrase'])
 for line in open('raw_dictionary.txt', 'r').readlines():
   line = line.strip()
   if '-' in line and line.split('-')[1].strip() in partsOfSpeech:
