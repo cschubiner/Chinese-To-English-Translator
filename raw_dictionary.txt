@@ -2521,6 +2521,9 @@ river
 aquatic
 水上, 水, 水栖
 
+毛泽东-noun
+Mao Zedong
+
 求-verb
 request
 要求, 请求, 请, 求, 询问, 询
@@ -4729,3 +4732,221 @@ beer
 brewage
 酿造, 啤酒
 
+高举-verb
+hold high
+高举, 昂
+hold aloft
+高举
+
+思想-noun
+thinking
+思维, 思想, 思路, 思索, 心, 思绪
+thought
+思想, 思维, 思, 心思, 念头, 念
+idea
+理念, 想法, 思想, 主意, 概念, 构想
+ideology
+思想, 思想体系, 思想意识, 空论, 思想主义
+cogitation
+思维, 熟思, 思想
+思想-adjective
+ideological
+思想, 空论的
+
+
+成为-verb
+become
+成为, 变成, 变, 成, 为, 做
+turn into
+变成, 成为, 变为, 成
+
+强盛-adjective
+powerful and prosperous
+强盛
+
+公正-adjective
+fair
+公平, 公正, 公, 持平, 允, 均等
+just
+公正, 公平, 义, 直, 公, 允
+equitable
+公平, 公正, 合理的
+impartial
+公正, 不偏不倚, 公平, 均等, 义, 合理的
+
+国家-noun
+country
+国家, 国, 乡村, 我国, 国度, 乡下
+nation
+国家, 民族, 国, 国度, 邦
+commonwealth
+联邦, 邦, 国家, 联盟, 人民, 禔
+
+学习-noun
+learning
+学习, 学, 学问, 学术, 学业, 读书
+学习-verb
+learn
+学, 学习, 学会, 得知, 记住, 知悉
+study
+研究, 学习, 学, 读书, 考察, 读
+be taught
+学习, 学会
+be trained
+学习, 学会
+gain knowledge
+学习
+prep
+学习
+cram
+填满, 拥挤, 学习, 揣, 死记
+become skilled at
+学会, 学习
+revise
+修改, 修订, 修正, 调整, 订, 学习
+
+不声不响-adverb
+quietly
+
+关心-verb
+care
+关心, 关怀, 在乎, 在意, 注意, 看护
+concern
+关心, 忧虑, 有关, 关系, 虑, 干
+interest
+关心, 趣味, 注意
+be concerned about
+关心, 悬念, 记挂, 挂心
+regard
+视, 看待, 看作, 看成, 注重, 关心
+think
+认为, 想, 思考, 想到, 以为, 关心
+respect
+尊重, 关于, 遵守, 尊敬, 敬, 关心
+关心-adjective
+concerned
+关心, 忧虑, 当事, 忧, 忧愁, 悒
+关心-noun
+attention
+注意, 关注, 注意力, 关心, 意思, 意兴
+heed
+注意, 关心, 注意力, 关怀
+
+诚实-adjective
+honest
+诚实, 诚, 老实, 正直, 坦白, 淳朴
+truthful
+真实, 诚实, 恂, 笃, 义, 顒
+honourable
+体面, 光彩, 诚实, 义, 懿, 公
+诚实-noun
+honesty
+诚实, 信实, 忱
+
+
+善意-noun
+goodwill
+善意, 信誉, 美意, 情意
+good intention
+善意, 好意, 好心
+
+对待-verb
+treat
+治疗, 对待, 处理, 看待, 医治, 待
+serve
+服务, 服侍, 服, 帮助, 服役, 对待
+对待-noun
+treatment
+治疗, 待遇, 对待, 治, 疗法, 医
+
+其实-adverb
+in fact
+其实
+as a matter of fact
+其实
+actually
+其实, 事实上, 竟, 竟然, 究竟, 才
+really
+真, 确实, 实在, 的确, 其实, 果然
+
+只要-phrase
+as long as
+
+起来-verb
+stand up
+起立, 起来, 顶住, 抵抗, 顶, 谡
+起来-noun
+upward movement
+起来
+beginning an action
+起来
+
+晚餐-noun
+dinner
+晚餐, 晚饭, 席
+supper
+晚餐, 晚饭, 飧
+evening meal
+晚餐, 哺
+
+
+什么-adjective
+what
+什么, 哪, 奚
+
+古往今来-phrase
+through the ages
+
+多少-adjective
+how many
+多少
+多少-noun
+number
+编号, 数, 号, 号码, 数目, 多少
+amount
+量, 额, 数量, 数目, 多少, 数字
+多少-adverb
+how much
+多少, 几
+
+成功者-noun
+winners
+
+人们-noun
+people
+人, 人民, 人们, 民, 民众, 民族
+folk
+人, 人们, 人家, 众人
+
+赞赏-verb
+praise
+赞美, 称赞, 赞扬, 表扬, 赞, 赞赏
+laud
+赞美, 赞扬, 赞赏, 揄扬, 赞, 褒扬
+panegyrize
+赞美, 褒扬, 揄扬, 赞, 赞赏, 赞扬
+belaud
+赞扬, 赞美, 赞, 赞赏
+eulogize
+讴歌, 赞美, 称颂, 赞, 颂, 赞赏
+incense
+揄扬, 赞, 赞美, 赞赏, 赞扬
+rhapsodize
+揄扬, 赞美, 赞, 赞赏, 赞扬, 作狂想曲
+赞赏-noun
+admiration
+钦佩, 赞赏
+laud
+赞美, 赞扬, 赞赏, 赞
+glorification
+赞美, 赞扬, 颂, 赞, 赞赏, 誉
+laudation
+赞美, 颂, 誉, 赞, 赞赏, 赞扬
+gloat
+幸灾乐祸, 赞赏
+emblazonment
+誉, 赞, 赞美, 赞赏, 赞扬
+emblazonry
+誉, 赞, 赞赏
+magnification
+放大, 放大率, 揄扬, 赞, 赞美, 赞赏
