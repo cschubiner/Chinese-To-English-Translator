@@ -4,30 +4,31 @@
 import numpy
 import nltk
 from nltk.tag.stanford import POSTagger
+from Datum import Datum
+from Sentence import Sentence
+from HolbrookCorpus import HolbrookCorpus
+from StupidBackoffLanguageModel import StupidBackoffLanguageModel
 
+### Test Bigram Backoff Language model
+eng_corpus = HolbrookCorpus('holbrook-tagged-train.dat')
+eng_model = StupidBackoffLanguageModel(eng_corpus)
+
+sentence1 = ["what", "you", "do", "want", "to", "eat", "for", "dinner"]
+print ("Score for sentence \"What you do want to eat for dinner\": " + str(eng_model.score(sentence1)))
+
+sentence2 = ["what", "do", "you", "want", "to", "eat", "for", "dinner"]
+print ("Score for sentence \"What do you want to eat for dinner\": " + str(eng_model.score(sentence2)))
+
+
+### Test POS
 ## Configure this to be your Java directory
 # nltk.internals.config_java(u"C:/Program Files/Java/jre7/bin/java.exe")
 
-chunk = u"古往今来 ， 有 多少 的 成功者 被 人们 赞赏"
-#chunk = u"妈我"
-#tagger = POSTagger()
-#token_tags = tagger.tag(chunk)
+# chunk = u"古往今来 ， 有 多少 的 成功者 被 人们 赞赏"
 
-#for token,tag in token_tags:
-#   print token,tag
+# text = nltk.word_tokenize(chunk.encode('utf-8'))
+#st = POSTagger('chinese-distsim.tagger', 'stanford-postagger-3.1.4.jar')
 
-text = nltk.word_tokenize(chunk.encode('utf-8'))
-st = POSTagger('chinese-distsim.tagger', 'stanford-postagger-3.1.4.jar')
-
-# print (text)
-poop = st.tag(text)
-# print (poop)
-for w in poop:
-  # print type(w[1]), type(w[1].decode('utf-8'))
-  print w[1].decode('utf-8'),
-#tagger = pickle.load(open('sinica_treebank_brill_aubt.pickle'))
-#poop = tagger.tag(text)
-#print poop
-
-#poop2 = nltk.pos_tag(text)
-#print poop2
+#poop = st.tag(text)
+#for w in poop:
+#  print w[1].decode('utf-8'),
