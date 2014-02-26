@@ -35,11 +35,11 @@ def fixQuotes(sentence):
   sentence = sentence.replace('“', '"')
   return sentence
 
-def translateSentence(sentence):
-  sentence = replaceChinesePunctuation(sentence)
-  sentence = sentence.split()
+def translateSentence(chineseSentence):
+  chineseSentence = replaceChinesePunctuation(chineseSentence)
+  chineseSentence = chineseSentence.split()
   newSentence = list()
-  for word in sentence:
+  for word in chineseSentence:
     if word in chinDict:
       newSentence.append(chinDict[word][0].word) #use the most frequent translation
     else:

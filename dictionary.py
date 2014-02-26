@@ -20,8 +20,6 @@ class EnglishWord:
   def __init__(self, word, pos):
     self.word = word
     self.pos = pos
-  def addTarget(self, swissprot_id, swissprot_name):
-    self.proteinSet.add((swissprot_id, swissprot_name))
 
 char = ''
 pos = ''
