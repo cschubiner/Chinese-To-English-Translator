@@ -4,6 +4,7 @@ import codecs
 import sys
 import re
 import copy
+import string
 from Datum import Datum
 from Sentence import Sentence
 from HolbrookCorpus import HolbrookCorpus
@@ -87,12 +88,20 @@ def chooseMostLikelySentence(sentences):
 
   # "sentence" is a string (assume delimited by spaces)
   for sentence in sentences:
-    logProbScore = engModel.score(sentence.split())
+    cleanSentence = removePunctuation(sentence)
+    logProbScore = engModel.score(cleanSentence.split())
     if logProbScore > maxLogProbScore:
       maxLogProbScore = logProbScore
       result = sentence
 
   # Return the most likely sentence
+  return result
+
+def removePunctuation(inputString):
+  result = inputString
+  for c in string.punctuation:
+    result = result.replace(c, "")
+
   return result
 
 
