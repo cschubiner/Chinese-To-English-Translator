@@ -108,7 +108,7 @@ def translateSentence(chineseSentence):
   possibleSentences = []
   for index, word in enumerate(chineseSentence):
     # Get possible variations (list of strings)
-    variations = getPossibleVariations(word)
+    variations = getPossibleVariations(word, index, usePOS, chinesePOS)
 
     # Append variations to each element in possible sentences
     nextSentences = []
@@ -123,43 +123,45 @@ def translateSentence(chineseSentence):
         for variation in variations:
           # Append variation to individual sentence
           sentence.append(variation)
-          nextSentences.append(sentence) 
+          nextSentences.append(sentence)
 
     # Update possibleSentences
     possibleSentences = nextSentences
 
   # Perform post operations on each sentence
-  for sentence in possibleSentences:
-    sentence = addEndingPeriod(sentence)
-    sentence[0] = sentence[0].capitalize()
-    sentence =  (' ').join(sentence)
-    sentence = fixQuotes(sentence)
-    sentence = fixPunctuationSpacing(sentence)
-    sentence = fixDates(sentence)
-    sentence = fixNumbers(sentence)
+  for i in range(len(possibleSentences)):
+    possibleSentences[i] = addEndingPeriod(possibleSentences[i])
+    possibleSentences[i][0] = possibleSentences[i][0].capitalize()
+    possibleSentences[i] =  (' ').join(possibleSentences[i])
+    possibleSentences[i] = fixQuotes(possibleSentences[i])
+    possibleSentences[i] = fixPunctuationSpacing(possibleSentences[i])
+    possibleSentences[i] = fixDates(possibleSentences[i])
+    possibleSentences[i] = fixNumbers(possibleSentences[i])
 
+  print(len(possibleSentences))
   result = chooseMostLikelySentence(possibleSentences)
   return result
 
-def getPossibleVariations(word):
+def getPossibleVariations(word, index, usePOS, chinesePOS):
   variations = []
 
   if word in chinDict:
-      if usePOS:
-        chinPOS = chinesePOS[index]
-        # print(chinPOS, word,end='')
-        # print()
-        for engWord in chinDict[word]:
-          if engWord.pos == chinPOS:
-            variations.append(engWord.word)
+    if usePOS:
+      chinPOS = chinesePOS[index]
+      # print(chinPOS, word,end='')
+      # print()
+      for engWord in chinDict[word]:
+        if engWord.pos == chinPOS:
+          print('appending', engWord.word)
+          variations.append(engWord.word)
 
-      if len(variations) == 0:
-        # fallback to the most frequent translation
-        variations.append(chinDict[word][0].word)
-    else:
-      variations.append(word)
+    if len(variations) == 0:
+      # fallback to the most frequent translation
+      variations.append(chinDict[word][0].word)
+  else:
+    variations.append(word)
 
-    return variations
+  return variations
 
 # Uses the English language model (Stupid Backoff Bigram Model)
 # to choose a most "likely" sentence among several alternatives.

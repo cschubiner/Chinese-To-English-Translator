@@ -3,6 +3,11 @@
 romanCharSet = set('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ')
 def only_roman_chars(s):
     try:
+      for c in s:
+        if ord(c) >= 0x4e00 and ord(c) <= 0x9fff:
+        # if c not in romanCharSet:
+          return False
+      return True
       return len(s) > 1 or s in romanCharSet
         # s.encode("iso-8859-1")
         # for c in s:
