@@ -11,6 +11,7 @@ from HolbrookCorpus import HolbrookCorpus
 from StupidBackoffLanguageModel import StupidBackoffLanguageModel
 import sys, os
 import subprocess
+import en
 
 
 chinDict = dictionary.getdictionary()
@@ -68,10 +69,16 @@ def fixDates(sentence):
   return sentence
 
 def fixNumbers(sentence):
-  tenThousandFormat = re.compile(r'(\d*万)')
-  matches = re.findall(tenThousandFormat,sentence)
+  sentencefix = sentence
+  yiThousandFormat = re.compile(r'(\d*)亿 ?(\d*)万')
+  matches = re.findall(yiThousandFormat,sentence)
   if matches:
-    sentencefix = tenThousandFormat.sub(lambda x: x.group()+'0000',sentence)
+    sentencefix = yiThousandFormat.sub(lambda x: str(int(x.group(1)+'00000000')+int(x.group(2)+'0000')),sentence)
+
+  tenThousandFormat = re.compile(r'(\d*)万')
+  matches = re.findall(tenThousandFormat,sentencefix)
+  if matches:
+    sentencefix = tenThousandFormat.sub(lambda x: x.group(1)+'0000',sentencefix)
     return sentencefix
 
   return sentence
