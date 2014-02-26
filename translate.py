@@ -2,6 +2,8 @@
 import dictionary
 import codecs
 import sys
+import re
+import copy
 
 chinDict = dictionary.getdictionary()
 
@@ -35,6 +37,17 @@ def fixQuotes(sentence):
   sentence = sentence.replace('“', '"')
   return sentence
 
+def fixDates(sentence):
+  dateFormat = re.compile(r'.{,3}?(\d{2,4})年.{,3}(\d+)月.+?(\d+?)日')
+  matches = re.findall(dateFormat,sentence)
+  for m in matches:
+    if m:
+      newDate = m[1]+'/'+m[2]+'/'+m[0]
+      sentencefix = dateFormat.sub(newDate,sentence)
+      return sentencefix
+
+  return sentence
+
 def translateSentence(chineseSentence):
   chineseSentence = replaceChinesePunctuation(chineseSentence)
   chineseSentence = chineseSentence.split()
@@ -50,6 +63,7 @@ def translateSentence(chineseSentence):
   newSentence =  (' ').join(newSentence)
   newSentence = fixQuotes(newSentence)
   newSentence = fixPunctuationSpacing(newSentence)
+  newSentence = fixDates(newSentence)
   return newSentence
 
 if __name__ == "__main__":
