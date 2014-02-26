@@ -10,6 +10,7 @@ from Sentence import Sentence
 from HolbrookCorpus import HolbrookCorpus
 from StupidBackoffLanguageModel import StupidBackoffLanguageModel
 
+
 chinDict = dictionary.getdictionary()
 
 replaceDictionary = {'、':',', '：':':', '；':';', '，':',', '％':'%', '。':'.', '？':'?'}
@@ -57,6 +58,16 @@ def fixDates(sentence):
 
   return sentence
 
+def fixNumbers(sentence):
+  tenThousandFormat = re.compile(r'(\d*万)')
+  matches = re.findall(tenThousandFormat,sentence)
+  if matches:
+    sentencefix = tenThousandFormat.sub(lambda x: x.group()+'0000',sentence)
+    return sentencefix
+
+  return sentence
+
+
 def translateSentence(chineseSentence):
   chineseSentence = replaceChinesePunctuation(chineseSentence)
   chineseSentence = chineseSentence.split()
@@ -73,6 +84,7 @@ def translateSentence(chineseSentence):
   newSentence = fixQuotes(newSentence)
   newSentence = fixPunctuationSpacing(newSentence)
   newSentence = fixDates(newSentence)
+  newSentence = fixNumbers(newSentence)
 
   possibleSentences = []
   possibleSentences.append(newSentence)
