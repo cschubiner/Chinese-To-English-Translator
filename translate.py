@@ -11,7 +11,7 @@ from HolbrookCorpus import HolbrookCorpus
 from StupidBackoffLanguageModel import StupidBackoffLanguageModel
 import sys, os
 import subprocess
-import en
+#import en
 
 
 chinDict = dictionary.getdictionary()
