@@ -96,41 +96,70 @@ def getChinesePOS(chineseSentence):
 
 
 def translateSentence(chineseSentence):
+  # First, replace all punctuation in the original sentence with valid punctuation
   chineseSentence = replaceChinesePunctuation(chineseSentence)
+
+  # Determine POS tags, split chinese sentence
   chinesePOS = getChinesePOS(chineseSentence)
   chineseSentence = chineseSentence.split()
   usePOS = len(chinesePOS) == len(chineseSentence)
-  newSentence = list()
+
+  # Construct possible translations, add to list of sentences
+  possibleSentences = []
   for index, word in enumerate(chineseSentence):
-    if word in chinDict:
-      transWord = None
+    # Get possible variations (list of strings)
+    variations = getPossibleVariations(word)
+
+    # Append variations to each element in possible sentences
+    nextSentences = []
+    if len(possibleSentences) == 0:
+      for variation in variations:
+        sentence = []
+        sentence.append(variation)
+        nextSentences.append(sentence)
+    else:
+      # Sentence should be a list of strings
+      for sentence in possibleSentences:
+        for variation in variations:
+          # Append variation to individual sentence
+          sentence.append(variation)
+          nextSentences.append(sentence) 
+
+    # Update possibleSentences
+    possibleSentences = nextSentences
+
+  # Perform post operations on each sentence
+  for sentence in possibleSentences:
+    sentence = addEndingPeriod(sentence)
+    sentence[0] = sentence[0].capitalize()
+    sentence =  (' ').join(sentence)
+    sentence = fixQuotes(sentence)
+    sentence = fixPunctuationSpacing(sentence)
+    sentence = fixDates(sentence)
+    sentence = fixNumbers(sentence)
+
+  result = chooseMostLikelySentence(possibleSentences)
+  return result
+
+def getPossibleVariations(word):
+  variations = []
+
+  if word in chinDict:
       if usePOS:
         chinPOS = chinesePOS[index]
         # print(chinPOS, word,end='')
         # print()
         for engWord in chinDict[word]:
           if engWord.pos == chinPOS:
-            transWord = engWord.word
-            break
-      if transWord is None:
-        transWord = chinDict[word][0].word # fallback to the most frequent translation
+            variations.append(engWord.word)
 
-      newSentence.append(transWord)
+      if len(variations) == 0:
+        # fallback to the most frequent translation
+        variations.append(chinDict[word][0].word)
     else:
-      newSentence.append(word)
+      variations.append(word)
 
-  newSentence = addEndingPeriod(newSentence)
-  newSentence[0] = newSentence[0].capitalize()
-  newSentence =  (' ').join(newSentence)
-  newSentence = fixQuotes(newSentence)
-  newSentence = fixPunctuationSpacing(newSentence)
-  newSentence = fixDates(newSentence)
-  newSentence = fixNumbers(newSentence)
-
-  possibleSentences = []
-  possibleSentences.append(newSentence)
-  newSentence = chooseMostLikelySentence(possibleSentences)
-  return newSentence
+    return variations
 
 # Uses the English language model (Stupid Backoff Bigram Model)
 # to choose a most "likely" sentence among several alternatives.
