@@ -16,6 +16,12 @@ dictionary = dict()
 def getdictionary():
   return dictionary
 
+
+partOfSpeechMapper = {'AD' : 'phrase', 'CC' : 'conjunction', 'CD' : 'phrase', 'CS' : 'phrase', 'DEC' : 'preposition', 'DEG' : 'possessive particle', 'IN' : 'preposition', 'JJ' : 'adjective', 'JJR' : 'adjective', 'JJS' : 'adjective', 'LS' : 'punctuation', 'LB' : 'passive switch', 'NN' : 'noun', 'NNS' : 'noun', 'NNP' : 'noun', 'NNPS' : 'noun', 'PRP' : 'pronoun', 'PRP$' :' pronoun', 'RB' : 'adverb', 'RBR' : 'adverb', 'RBS' : 'adverb', 'TO' : 'preposition', 'VA' : 'adverb', 'VE' : 'verb', 'VB' : 'verb', 'VV' : 'verb', 'VBD' : 'verb', 'VBG' : 'verb', 'VBN' : 'verb', 'VBP' : 'verb', 'VBZ' : 'verb', 'WP' : 'pronoun', 'WP$' :' ­pronoun', 'WRB' : '­adverb', 'ETC' : 'etc', 'NR' : 'noun', 'PN' : 'pronoun', 'NT' : 'noun', 'M' : 'noun', 'LC' : 'preposition', 'DEV' : 'filler', 'P': 'verb'}
+
+def getPartOfSpeechMapper():
+  return partOfSpeechMapper
+
 class EnglishWord:
   def __init__(self, word, pos):
     self.word = word
@@ -23,7 +29,7 @@ class EnglishWord:
 
 char = ''
 pos = ''
-partsOfSpeech = set(['verb', 'auxiliary verb', 'pronoun', 'noun', 'adverb', 'preposition', 'adjective', 'conjunction', 'article', 'abbreviation', 'number', 'phrase'])
+partsOfSpeech = set(['verb', 'auxiliary verb', 'pronoun', 'noun', 'adverb', 'preposition', 'adjective', 'conjunction', 'article', 'abbreviation', 'number', 'phrase', 'passive switch', 'filler', 'possessive particle'])
 for line in open('raw_dictionary.txt', 'r').readlines():
   line = line.strip()
   if '-' in line and line.split('-')[1].strip() in partsOfSpeech:

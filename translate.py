@@ -9,6 +9,8 @@ from Datum import Datum
 from Sentence import Sentence
 from HolbrookCorpus import HolbrookCorpus
 from StupidBackoffLanguageModel import StupidBackoffLanguageModel
+import sys, os
+import subprocess
 
 
 chinDict = dictionary.getdictionary()
@@ -27,6 +29,13 @@ def fixPunctuationSpacing(sentence):
   for val in replaceDictionary.values():
     sentence = sentence.replace(' '+val, val)
   return sentence
+
+def runCommandLineCommand(command):
+  # arr = command.split(' ')
+  # proc = subprocess.Popen([arr[0], command.replace(arr[0],'')], stdout=subprocess.PIPE, shell=False)
+  return subprocess.check_output(command, shell=True)
+  # (out, err) = proc.communicate()
+  # return out
 
 def addEndingPeriod(sentence):
   noEndingPunct = True
@@ -67,14 +76,46 @@ def fixNumbers(sentence):
 
   return sentence
 
+partOfSpeechMapper = dictionary.getPartOfSpeechMapper()
+def getChinesePOS(chineseSentence):
+  pos = runCommandLineCommand('python posTagger.py "' + chineseSentence + '"')
+  # print(pos)
+  # print(str(pos, encoding='UTF-8'))
+  # pos = os.system('python posTagger.py "' + chineseSentence + '"')
+
+  # print(len(pos.split()), len(chineseSentence.split()))
+  actualPOS = list()
+  for p in pos.split():
+    p = str(p, encoding='utf-8')
+    if p not in partOfSpeechMapper:
+      # print (p)
+      actualPOS.append(p)
+    else:
+      actualPOS.append(partOfSpeechMapper[p])
+  return actualPOS
+
 
 def translateSentence(chineseSentence):
   chineseSentence = replaceChinesePunctuation(chineseSentence)
+  chinesePOS = getChinesePOS(chineseSentence)
   chineseSentence = chineseSentence.split()
+  usePOS = len(chinesePOS) == len(chineseSentence)
   newSentence = list()
-  for word in chineseSentence:
+  for index, word in enumerate(chineseSentence):
     if word in chinDict:
-      newSentence.append(chinDict[word][0].word) #use the most frequent translation
+      transWord = None
+      if usePOS:
+        chinPOS = chinesePOS[index]
+        # print(chinPOS, word,end='')
+        # print()
+        for engWord in chinDict[word]:
+          if engWord.pos == chinPOS:
+            transWord = engWord.word
+            break
+      if transWord is None:
+        transWord = chinDict[word][0].word # fallback to the most frequent translation
+
+      newSentence.append(transWord)
     else:
       newSentence.append(word)
 

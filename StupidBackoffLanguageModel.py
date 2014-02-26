@@ -15,16 +15,16 @@ class StupidBackoffLanguageModel:
     self.train(corpus)
 
   def train(self, corpus):
-    """ Takes a corpus and trains your language model. 
+    """ Takes a corpus and trains your language model.
         Compute any counts or other corpus statistics in this function.
-    """  
+    """
     # TODO your code here
     # Tip: To get words from the corpus, try
     #    for sentence in corpus.corpus:
-    #       for datum in sentence.data:  
+    #       for datum in sentence.data:
     #         word = datum.word
     for sentence in corpus.corpus:
-      for i in xrange(1, len(sentence.data)):
+      for i in range(1, len(sentence.data)):
         token1 = sentence.data[i-1].word if i > 0 else self.startTok
         token2 = sentence.data[i].word if i < len(sentence.data) else self.endTok
         key = (token1, token2)
@@ -41,12 +41,12 @@ class StupidBackoffLanguageModel:
       self.unigramTotal += 1
 
   def score(self, sentence):
-    """ Takes a list of strings as argument and returns the log-probability of the 
+    """ Takes a list of strings as argument and returns the log-probability of the
         sentence using your language model. Use whatever data you computed in train() here.
     """
     # TODO your code here
-    score = 0.0 
-    for i in xrange(1, len(sentence)):
+    score = 0.0
+    for i in range(1, len(sentence)):
       token1 = sentence[i-1] if i > 0 else self.startTok
       token2 = sentence[i] if i < len(sentence) else self.endTok
       bigram = (token1, token2)

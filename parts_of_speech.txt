@@ -1,0 +1,52 @@
+  partsOfSpeech = set(['verb', 'auxiliary verb', 'pronoun', 'noun', 'adverb', 'preposition', 'adjective', 'conjunction', 'article', 'abbreviation', 'number', 'phrase', 'passive switch', 'filler', 'possessive particle', 'etc', 'punctuation'])
+
+
+
+AD phrase
+CC conjunction
+CD phrase
+CS phrase
+DEC preposition
+DEG possessive particle
+IN preposition
+JJ adjective
+JJR adjective
+JJS adjective
+LS punctuation
+LB passive switch
+NN noun
+NNS noun
+NNP noun
+NNPS noun
+PRP pronoun
+PRP$ pronoun
+RB adverb
+RBR adverb
+RBS adverb
+TO preposition
+VA adverb
+VC verb
+VE verb
+VB verb
+VV verb
+VBD verb
+VBG verb
+VBN verb
+VBP verb
+VBZ verb
+WP pronoun
+WP$ ­pronoun
+WRB ­adverb
+
+
+ETC etc
+NR noun
+PN pronoun
+NT noun
+M noun
+LC preposition
+DEV filler
+
+P verb
+
+partOfSpeechMapper = {'AD' : 'phrase', 'CC' : 'conjunction', 'CD' : 'phrase', 'CS' : 'phrase', 'DEC' : 'preposition', 'DEG' : 'possessive particle', 'IN' : 'preposition', 'JJ' : 'adjective', 'JJR' : 'adjective', 'JJS' : 'adjective', 'LS' : 'punctuation', 'LB' : 'passive switch', 'NN' : 'noun', 'NNS' : 'noun', 'NNP' : 'noun', 'NNPS' : 'noun', 'PRP' : 'pronoun', 'PRP$' :' pronoun', 'RB' : 'adverb', 'RBR' : 'adverb', 'RBS' : 'adverb', 'TO' : 'preposition', 'VA' : 'adverb', 'VE' : 'verb', 'VB' : 'verb', 'VV' : 'verb', 'VBD' : 'verb', 'VBG' : 'verb', 'VBN' : 'verb', 'VBP' : 'verb', 'VBZ' : 'verb', 'WP' : 'pronoun', 'WP$' :' ­pronoun', 'WRB' : '­adverb', 'ETC' : 'etc', 'NR' : 'noun', 'PN' : 'pronoun', 'NT' : 'noun', 'M' : 'noun', 'LC' : 'preposition', 'DEV' : 'filler', 'P': 'verb'}
