@@ -27,13 +27,10 @@ if targetTense == Tense.Future:
   result.append("will")
 for word in words:
   try:
-    if en.is_verb(word):
-      if targetTense == Tense.Past:
-        result.append(en.verb.past(word))
-      else:
-        result.append(en.verb.present(word))
+    if targetTense == Tense.Past:
+      result.append(en.verb.past(word))
     else:
-      result.append(word)
+      result.append(en.verb.present(word))
   except:
     result.append(word)
 

@@ -12,6 +12,17 @@ from StupidBackoffLanguageModel import StupidBackoffLanguageModel
 import sys, os
 import subprocess
 
+## PARAMETERS ##
+FLAG_FIX_DATES = True
+FLAG_FIX_NUMBERS = True
+FLAG_SWITCH_TENSE = True
+FLAG_FIX_YI = True
+FLAG_USE_LANGUAGE_MODEL = True
+FLAG_USE_POS_TAGGING = True
+FLAG_REMOVE_FILLER_WORDS = True
+FLAG_MODIFY_POSSESSIVES = True
+FLAG_REMOVE_ADJACENT_DUPLICATES = True
+
 # Chinese dictionary
 chinDict = dictionary.getdictionary()
 
@@ -74,6 +85,9 @@ def fixQuotes(sentence):
   return sentence
 
 def fixDates(sentence):
+  if not FLAG_FIX_DATES:
+    return sentence
+
   dateFormat = re.compile(r'.{,3}?(\d{2,4})年.{,3}(\d+)月.+?(\d+?)日')
   matches = re.findall(dateFormat,sentence)
   for m in matches:
@@ -85,6 +99,9 @@ def fixDates(sentence):
   return sentence
 
 def fixNumbers(sentence):
+  if not FLAG_FIX_NUMBERS:
+    return sentence
+
   sentencefix = sentence
   yiThousandFormat = re.compile(r'(\d*)亿 ?(\d*)万')
   matches = re.findall(yiThousandFormat,sentence)
@@ -100,6 +117,9 @@ def fixNumbers(sentence):
   return sentence
 
 def modifyyi(chineseSentence):
+  if not FLAG_FIX_YI:
+    return chineseSentence
+
   regex = re.compile(r'一 .')
   newChineseSentence = regex.sub('一', chineseSentence)
   return newChineseSentence
@@ -138,7 +158,8 @@ def getChineseTense(chineseSentence):
     # Determine word before index only if found
     if prevWordIdx >= 0:
       prevWord = chineseTokens[prevWordIdx]
-      prevPos = str(runCommandLineCommand('python posTagger.py "' + prevWord + '"'))
+      prevPos = getChinesePOS(prevWord)
+      prevPos = prevPos[0][0]
       if prevPos in partOfSpeechMapper and partOfSpeechMapper[prevPos] == 'verb':
         return Tense.Past
 
@@ -151,27 +172,30 @@ def getChineseTense(chineseSentence):
   # Return present tense if no other tenses were identified
   return Tense.Present
 
-def vowelMod(sentences):
+def vowelMod(sentence):
+  if not FLAG_MODIFY_POSSESSIVES:
+    return sentence
+
   regex = re.compile(r' a \'?[aeiou]')
   lookfora = re.compile(r' a ')
-  matches = re.findall(regex,sentences)
+  matches = re.findall(regex,sentence)
   #print(matches)
   if matches:
-    newSentence = lookfora.sub(" an ", sentences)
+    newSentence = lookfora.sub(" an ", sentence)
     return newSentence
 
   regex = re.compile(r'A \'?[aeiou]')
   lookfora = re.compile(r'A ')
-  matches = re.findall(regex,sentences)
+  matches = re.findall(regex,sentence)
   #print(matches)
   if matches:
-    newSentence = lookfora.sub("An ", sentences)
+    newSentence = lookfora.sub("An ", sentence)
     return newSentence
 
-  return sentences
+  return sentence
 
 def getChinesePOS(chineseSentence):
-  pos = str(runCommandLineCommand('python posTagger.py "' + chineseSentence + '"'))
+  pos = runCommandLineCommand('python posTagger.py "' + chineseSentence + '"')
   # pos = os.system('python posTagger.py "' + chineseSentence + '"')
 
   actualPOS = list()
@@ -186,11 +210,40 @@ def getChinesePOS(chineseSentence):
 # Changes the tense of an English word (only applicable if verb)
 def changeEnglishTense(word, pos, tense):
   # Return the word itself if the part of speech is not a verb
-  if pos != 'verb':
+  if pos != 'verb' or not FLAG_SWITCH_TENSE:
     return word
 
   # Change word based on the tense
-  return str(runCommandLineCommand('python tense.py "' + word + '" ' + str(tense)))
+  return str(runCommandLineCommand2('python tense.py "' + word + '" ' + str(tense)))
+
+# Removes any adjacent 2-in-a-row duplicates of a given sentence
+def removeDuplicates(sentence):
+  if not FLAG_REMOVE_ADJACENT_DUPLICATES:
+    return sentence
+
+  # Tokenize and compare adjacent tokens
+  tokens = sentence.split()
+  prevToken = ""
+
+  resultTokens = []
+  for currToken in tokens:
+    # Compare tokens with punctuation removed
+    if removePunctuation(prevToken) == removePunctuation(currToken):
+      # Remove previous token iff it doesn't have punctuation
+      if prevToken == removePunctuation(prevToken):
+        resultTokens.pop()
+        resultTokens.append(currToken)
+        prevToken = currToken
+      elif currToken != removePunctuation(currToken):
+        # Add current token as duplicate iff it has punctuation
+        resultTokens.append(currToken)
+        prevToken = currToken
+    else:
+      resultTokens.append(currToken)
+      prevToken = currToken
+
+  return (' ').join(resultTokens)
+
 
 
 def translateSentence(chineseSentence):
@@ -202,7 +255,7 @@ def translateSentence(chineseSentence):
   chinesePOS = getChinesePOS(chineseSentence)
   chineseTense = getChineseTense(chineseSentence)
   chineseSentence = chineseSentence.split()
-  usePOS = len(chinesePOS) == len(chineseSentence)
+  usePOS = len(chinesePOS) == len(chineseSentence) and FLAG_USE_POS_TAGGING
 
   # Construct possible translations, add to list of sentences
   possibleSentences = []
@@ -241,7 +294,11 @@ def translateSentence(chineseSentence):
     possibleSentences[i] = fixNumbers(possibleSentences[i])
     possibleSentences[i] = vowelMod(possibleSentences[i])
 
+  # Utilize the language model to choose the most likely sentence
   result = chooseMostLikelySentence(possibleSentences)
+
+  # Remove all final duplicates
+  result = removeDuplicates(result)
   return result
 
 fillerPOSSet = set(['DEG', 'LB', 'DEV'])
@@ -251,7 +308,7 @@ def getPossibleVariations(word, index, usePOS, chinesePOS, chineseTense):
     chinPOS = chinesePOS[index]
     # print(chinPOS, word,end='')
     # print()
-    if chinPOS[0] in fillerPOSSet:
+    if chinPOS[0] in fillerPOSSet and FLAG_REMOVE_FILLER_WORDS:
       # print('Removing part of speech:', chinPOS)
       return ['']
 
@@ -278,6 +335,9 @@ def getPossibleVariations(word, index, usePOS, chinesePOS, chineseTense):
 # to choose a most "likely" sentence among several alternatives.
 # The input param "sentences" is a list of strings
 def chooseMostLikelySentence(sentences):
+  if not FLAG_USE_LANGUAGE_MODEL:
+    return sentences[0] if len(sentences) > 0 else ""
+
   maxLogProbScore = float('-inf')
   result = ""
 
