@@ -120,8 +120,6 @@ def translateSentence(chineseSentence):
   # First, replace all punctuation in the original sentence with valid punctuation
   chineseSentence = replaceChinesePunctuation(chineseSentence)
   chineseSentence = modifyyi(chineseSentence)
-  print(chineseSentence)
-  
 
   # Determine POS tags, split chinese sentence
   chinesePOS = getChinesePOS(chineseSentence)
@@ -231,8 +229,9 @@ if __name__ == "__main__":
   i = 0
   for line in codecs.open(corpus, encoding='utf-8').readlines():
     i += 1
+    print(line.strip(),)
     out = str(i) + '. ' + translateSentence(line)
-    print(out)
+    print(out + '\n')
     outputFile.write(out + '\n')
     # translateSentence(line)
     # break
