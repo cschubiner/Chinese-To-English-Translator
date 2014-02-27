@@ -3934,8 +3934,6 @@ eat
 吃, 吃饭, 食, 餐, 啖, 喝汤
 exhaust
 排气, 耗尽, 排出, 尽, 竭, 吃
-take
-采取, 取, 拿, 花费, 搭, 吃
 suffer
 遭受, 受苦, 挨, 受到, 苦于, 吃
 bear
@@ -4410,6 +4408,7 @@ overtake
 超过, 赶过
 
 油条-noun
+Chinese donuts
 Fritters
 
 简单-adjective

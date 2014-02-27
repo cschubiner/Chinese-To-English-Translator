@@ -129,8 +129,9 @@ def translateSentence(chineseSentence):
       for sentence in possibleSentences:
         for variation in variations:
           # Append variation to individual sentence
-          sentence.append(variation)
-          nextSentences.append(sentence)
+          newSentence = copy.deepcopy(sentence)
+          newSentence.append(variation)
+          nextSentences.append(newSentence)
 
     # Update possibleSentences
     possibleSentences = nextSentences
@@ -145,7 +146,6 @@ def translateSentence(chineseSentence):
     possibleSentences[i] = fixDates(possibleSentences[i])
     possibleSentences[i] = fixNumbers(possibleSentences[i])
 
-  print(len(possibleSentences))
   result = chooseMostLikelySentence(possibleSentences)
   return result
 
@@ -159,7 +159,7 @@ def getPossibleVariations(word, index, usePOS, chinesePOS):
       # print()
       for engWord in chinDict[word]:
         if engWord.pos == chinPOS:
-          print('appending', engWord.word)
+          # print('appending', engWord.word)
           variations.append(engWord.word)
 
     if len(variations) == 0:
