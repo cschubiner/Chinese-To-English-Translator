@@ -151,6 +151,12 @@ def getChineseTense(chineseSentence):
   # Return present tense if no other tenses were identified
   return Tense.Present
 
+def vowelMod(sentences):
+  regex = re.compile(r'a [aeiou]')
+  lookfora = re.compile(r' a ')
+  newSentence = lookfora.sub(an, sentences)
+  return newSentence
+
 def getChinesePOS(chineseSentence):
   pos = runCommandLineCommand('python posTagger.py "' + chineseSentence + '"')
   # pos = os.system('python posTagger.py "' + chineseSentence + '"')
