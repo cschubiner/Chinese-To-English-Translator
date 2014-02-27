@@ -96,9 +96,9 @@ def getChinesePOS(chineseSentence):
     p = str(p, encoding='utf-8')
     if p not in partOfSpeechMapper:
       # print (p)
-      actualPOS.append(p)
+      actualPOS.append((p, p))
     else:
-      actualPOS.append(partOfSpeechMapper[p])
+      actualPOS.append((p, partOfSpeechMapper[p]))
   return actualPOS
 
 
@@ -141,6 +141,7 @@ def translateSentence(chineseSentence):
     possibleSentences[i] = addEndingPeriod(possibleSentences[i])
     possibleSentences[i][0] = possibleSentences[i][0].capitalize()
     possibleSentences[i] =  (' ').join(possibleSentences[i])
+    possibleSentences[i] = possibleSentences[i].replace('  ', ' ')
     possibleSentences[i] = fixQuotes(possibleSentences[i])
     possibleSentences[i] = fixPunctuationSpacing(possibleSentences[i])
     possibleSentences[i] = fixDates(possibleSentences[i])
@@ -149,16 +150,24 @@ def translateSentence(chineseSentence):
   result = chooseMostLikelySentence(possibleSentences)
   return result
 
+fillerPOSSet = set(['DEG', 'LB', 'DEV'])
 def getPossibleVariations(word, index, usePOS, chinesePOS):
   variations = []
+  if usePOS:
+    chinPOS = chinesePOS[index]
+    # print(chinPOS, word,end='')
+    # print()
+    if chinPOS[0] in fillerPOSSet:
+      # print('Removing part of speech:', chinPOS)
+      return ['']
+
 
   if word in chinDict:
     if usePOS:
       chinPOS = chinesePOS[index]
-      # print(chinPOS, word,end='')
-      # print()
+
       for engWord in chinDict[word]:
-        if engWord.pos == chinPOS:
+        if engWord.pos == chinPOS[1]:
           # print('appending', engWord.word)
           variations.append(engWord.word)
 
@@ -197,11 +206,17 @@ def removePunctuation(inputString):
 
 
 if __name__ == "__main__":
-  i = 0
+  outputFilename = 'output/translations_dev.txt'
   corpus = 'corpus_dev_segmented.txt'
-  if len(sys.argv) > 1 and sys.argv[1] == '-t': corpus = 'corpus_test_segmented.txt'
+  if len(sys.argv) > 1 and sys.argv[1] == '-t': corpus = 'corpus_test_segmented.txt'; outputFilename = 'output/translations_test.txt'
+  outputFile = open(outputFilename, 'w')
+
+  i = 0
   for line in codecs.open(corpus, encoding='utf-8').readlines():
     i += 1
-    print(str(i) + '.', translateSentence(line))
+    out = str(i) + '. ' + translateSentence(line)
+    print(out)
+    outputFile.write(out + '\n')
     # translateSentence(line)
     # break
+outputFile.close()

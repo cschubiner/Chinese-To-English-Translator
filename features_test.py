@@ -13,11 +13,11 @@ from StupidBackoffLanguageModel import StupidBackoffLanguageModel
 eng_corpus = HolbrookCorpus('holbrook-tagged-train.dat')
 eng_model = StupidBackoffLanguageModel(eng_corpus)
 
-sentence1 = ["what", "you", "do", "want", "to", "eat", "for", "dinner"]
-print ("Score for sentence \"What you do want to eat for dinner\": " + str(eng_model.score(sentence1)))
+sentence = 'what do you want to eat for dinner'
+print ("Score for sentence \"" + sentence + "\": " + str(eng_model.score(sentence.split())))
 
-sentence2 = ["what", "do", "you", "want", "to", "eat", "for", "dinner"]
-print ("Score for sentence \"What do you want to eat for dinner\": " + str(eng_model.score(sentence2)))
+sentence = 'what do you want to eat for dinner'
+print ("Score for sentence \"" + sentence + "\": " + str(eng_model.score(sentence.split())))
 
 
 ### Test POS
