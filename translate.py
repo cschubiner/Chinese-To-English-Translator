@@ -152,10 +152,23 @@ def getChineseTense(chineseSentence):
   return Tense.Present
 
 def vowelMod(sentences):
-  regex = re.compile(r'a [aeiou]')
+  regex = re.compile(r' a \'?[aeiou]')
   lookfora = re.compile(r' a ')
-  newSentence = lookfora.sub(an, sentences)
-  return newSentence
+  matches = re.findall(regex,sentences)
+  #print(matches)
+  if matches:
+    newSentence = lookfora.sub(" an ", sentences)
+    return newSentence
+
+  regex = re.compile(r'A \'?[aeiou]')
+  lookfora = re.compile(r'A ')
+  matches = re.findall(regex,sentences)
+  #print(matches)
+  if matches:
+    newSentence = lookfora.sub("An ", sentences)
+    return newSentence
+
+  return sentences
 
 def getChinesePOS(chineseSentence):
   pos = runCommandLineCommand('python posTagger.py "' + chineseSentence + '"')
@@ -226,6 +239,7 @@ def translateSentence(chineseSentence):
     possibleSentences[i] = fixPunctuationSpacing(possibleSentences[i])
     possibleSentences[i] = fixDates(possibleSentences[i])
     possibleSentences[i] = fixNumbers(possibleSentences[i])
+    possibleSentences[i] = vowelMod(possibleSentences[i])
 
   result = chooseMostLikelySentence(possibleSentences)
   return result
@@ -248,13 +262,13 @@ def getPossibleVariations(word, index, usePOS, chinesePOS, chineseTense):
 
       for engWord in chinDict[word]:
         if engWord.pos == chinPOS[1]:
-          translation = changeEnglishTense(engWord.word, chinPOS[1], chineseTense)
+          #translation = changeEnglishTense(engWord.word, chinPOS[1], chineseTense)
+          translation = engWord.word
           variations.append(translation)
 
     if len(variations) == 0:
       # fallback to the most frequent translation
-      translation = changeEnglishTense(chinDict[word][0].word, chinPOS[1], chineseTense)
-      variations.append(translation)
+      variations.append(chinDict[word][0].word)
   else:
     variations.append(word)
 
