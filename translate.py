@@ -90,6 +90,13 @@ def fixNumbers(sentence):
 
   return sentence
 
+def modifyyi(chineseSentence):
+  regex = re.compile(r'一 .')
+  newChineseSentence = regex.sub('一', chineseSentence)
+  return newChineseSentence
+
+
+
 partOfSpeechMapper = dictionary.getPartOfSpeechMapper()
 def getChinesePOS(chineseSentence):
   pos = runCommandLineCommand('python posTagger.py "' + chineseSentence + '"')
@@ -112,6 +119,9 @@ def getChinesePOS(chineseSentence):
 def translateSentence(chineseSentence):
   # First, replace all punctuation in the original sentence with valid punctuation
   chineseSentence = replaceChinesePunctuation(chineseSentence)
+  chineseSentence = modifyyi(chineseSentence)
+  print(chineseSentence)
+  
 
   # Determine POS tags, split chinese sentence
   chinesePOS = getChinesePOS(chineseSentence)

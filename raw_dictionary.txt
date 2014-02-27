@@ -754,6 +754,8 @@ one
 一-adjective
 single
 单, 单一, 单个, 单身, 一, 独
+once
+一, 之一, 壹
 
 场-noun
 field
