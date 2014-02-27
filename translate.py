@@ -138,7 +138,7 @@ def getChineseTense(chineseSentence):
     # Determine word before index only if found
     if prevWordIdx >= 0:
       prevWord = chineseTokens[prevWordIdx]
-      prevPos = runCommandLineCommand('python posTagger.py "' + prevWord + '"')
+      prevPos = str(runCommandLineCommand('python posTagger.py "' + prevWord + '"'))
       if prevPos in partOfSpeechMapper and partOfSpeechMapper[prevPos] == 'verb':
         return Tense.Past
 
@@ -171,7 +171,7 @@ def vowelMod(sentences):
   return sentences
 
 def getChinesePOS(chineseSentence):
-  pos = runCommandLineCommand('python posTagger.py "' + chineseSentence + '"')
+  pos = str(runCommandLineCommand('python posTagger.py "' + chineseSentence + '"'))
   # pos = os.system('python posTagger.py "' + chineseSentence + '"')
 
   actualPOS = list()
@@ -190,7 +190,7 @@ def changeEnglishTense(word, pos, tense):
     return word
 
   # Change word based on the tense
-  return runCommandLineCommand('python tense.py "' + word + '" ' + str(tense))
+  return str(runCommandLineCommand('python tense.py "' + word + '" ' + str(tense)))
 
 
 def translateSentence(chineseSentence):

@@ -39,4 +39,4 @@ for word in words:
 
 # Return result
 retVal = (' ').join(result)
-print (retVal)
+print (str(retVal))
