@@ -38,6 +38,13 @@ def runCommandLineCommand(command):
   # (out, err) = proc.communicate()
   # return out
 
+def runCommandLineCommand2(command):
+  # arr = command.split(' ')
+  # proc = subprocess.Popen([arr[0], command.replace(arr[0],'')], stdout=subprocess.PIPE, shell=False)
+  commandLine = str(subprocess.check_output(command, shell=True))
+  return commandLine[2:-3]
+
+
 def addEndingPeriod(sentence):
   noEndingPunct = True
   for val in replaceDictionary.values():
@@ -73,12 +80,12 @@ def fixNumbers(sentence):
   yiThousandFormat = re.compile(r'(\d*)亿 ?(\d*)万')
   matches = re.findall(yiThousandFormat,sentence)
   if matches:
-    sentencefix = yiThousandFormat.sub(lambda x: str(int(x.group(1)+'00000000')+int(x.group(2)+'0000')),sentence)
+    sentencefix = yiThousandFormat.sub(lambda x: str(runCommandLineCommand2('python number-convert.py ' +str(int(x.group(1)+'00000000')+int(x.group(2)+'0000')))),sentence)
 
   tenThousandFormat = re.compile(r'(\d*)万')
   matches = re.findall(tenThousandFormat,sentencefix)
   if matches:
-    sentencefix = tenThousandFormat.sub(lambda x: x.group(1)+'0000',sentencefix)
+    sentencefix = tenThousandFormat.sub(lambda x: str(runCommandLineCommand2('python number-convert.py ' + str(x.group(1)+'0000'))),sentencefix)
     return sentencefix
 
   return sentence
