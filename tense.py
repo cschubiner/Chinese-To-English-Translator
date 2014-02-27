@@ -16,14 +16,27 @@ if len(sys.argv) != 3:
   print 'must have two arguments'
   sys.exit()
 
-# Extract word
-word = sys.argv[1]
+# Extract phrase
+phrase = str(sys.argv[1])
+words = phrase.split()
 targetTense = int(sys.argv[2])
 
 # Convert based on tense
-if targetTense == Tense.Past:
-  print (en.verb.past(word))
-elif targetTense == Tense.Future:
-  print ("will " + en.verb.present(word))
-else:
-  print (en.verb.present(word))
+result = []
+if targetTense == Tense.Future:
+  result.append("will")
+for word in words:
+  try:
+    if en.is_verb(word):
+      if targetTense == Tense.Past:
+        result.append(en.verb.past(word))
+      else:
+        result.append(en.verb.present(word))
+    else:
+      result.append(word)
+  except:
+    result.append(word)
+
+# Return result
+retVal = (' ').join(result)
+print (retVal)

@@ -262,8 +262,8 @@ def getPossibleVariations(word, index, usePOS, chinesePOS, chineseTense):
 
       for engWord in chinDict[word]:
         if engWord.pos == chinPOS[1]:
-          #translation = changeEnglishTense(engWord.word, chinPOS[1], chineseTense)
-          translation = engWord.word
+          translation = changeEnglishTense(engWord.word, chinPOS[1], chineseTense)
+          #translation = engWord.word
           variations.append(translation)
 
     if len(variations) == 0:
