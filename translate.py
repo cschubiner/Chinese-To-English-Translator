@@ -11,15 +11,24 @@ from HolbrookCorpus import HolbrookCorpus
 from StupidBackoffLanguageModel import StupidBackoffLanguageModel
 import sys, os
 import subprocess
-#import en
 
-
+# Chinese dictionary
 chinDict = dictionary.getdictionary()
 
+# Chinese punctuation replacement dictionary
 replaceDictionary = {'、':',', '：':':', '；':';', '，':',', '％':'%', '。':'.', '？':'?'}
 
+# Chinese POS mapper
+partOfSpeechMapper = dictionary.getPartOfSpeechMapper()
+
+# Language model + corpus
 engCorpus = HolbrookCorpus('holbrook-tagged-train.dat')
 engModel = StupidBackoffLanguageModel(engCorpus)
+
+# Enum class to track Chinese tense
+def enum(**enums):
+  return type('Enum', (), enums)
+Tense = enum(Past=1, Present=2, Future=3)
 
 def replaceChinesePunctuation(sentence):
   for key in replaceDictionary:
@@ -95,25 +104,74 @@ def modifyyi(chineseSentence):
   newChineseSentence = regex.sub('一', chineseSentence)
   return newChineseSentence
 
+# Currently, this function estimates a single tense for an entire Chinese sentence
+# Obviously, this doesn't cover all cases especially for heterogeneous cases:
+# "In the past I used to sing, but now I play basketball instead."
+def getChineseTense(chineseSentence):
+  # If sentence contains any of past tense words, mark as past tense
+  pastTenseWords = [u"了", u"昨天", u"前"]
+  for pastTenseWord in pastTenseWords:
+    if pastTenseWord in chineseSentence:
+      return Tense.Past
 
+  # If sentence contains a verb before "过", mark as past tense
+  guo4 = u"过"
+  if guo4 in chineseSentence:
+    # Verify that word before guo4 is a verb
+    chineseTokens = chineseSentence.split()
+    guo4Idx = -1
+    prevWordIdx = -1
 
-partOfSpeechMapper = dictionary.getPartOfSpeechMapper()
+    # Determine index of guo4 / word before
+    for index, token in enumerate(chineseTokens):
+      if guo4 in token:
+        guo4Idx = index
+
+        # If another word group is before guo4 in the token, this
+        # must be the index we want to tag
+        if token[0] != guo4:
+          prevWordIdx = guo4Idx
+
+    if prevWordIdx < 0:
+      prevWordIdx = guo4Idx - 1
+
+    # Determine word before index only if found
+    if prevWordIdx >= 0:
+      prevWord = chineseTokens[prevWordIdx]
+      prevPos = runCommandLineCommand('python posTagger.py "' + prevWord + '"')
+      if prevPos in partOfSpeechMapper and partOfSpeechMapper[prevPos] == 'verb':
+        return Tense.Past
+
+  # If sentence contains any of future tense words, mark as past tense
+  futureTenseWords = [u"未来", u"将来", u"后天", u"明天"]
+  for futureTenseWord in futureTenseWords:
+    if futureTenseWord in chineseSentence:
+      return Tense.Future
+
+  # Return present tense if no other tenses were identified
+  return Tense.Present
+
 def getChinesePOS(chineseSentence):
   pos = runCommandLineCommand('python posTagger.py "' + chineseSentence + '"')
-  # print(pos)
-  # print(str(pos, encoding='UTF-8'))
   # pos = os.system('python posTagger.py "' + chineseSentence + '"')
 
-  # print(len(pos.split()), len(chineseSentence.split()))
   actualPOS = list()
   for p in pos.split():
     p = str(p, encoding='utf-8')
     if p not in partOfSpeechMapper:
-      # print (p)
       actualPOS.append((p, p))
     else:
       actualPOS.append((p, partOfSpeechMapper[p]))
   return actualPOS
+
+# Changes the tense of an English word (only applicable if verb)
+def changeEnglishTense(word, pos, tense):
+  # Return the word itself if the part of speech is not a verb
+  if pos != 'verb':
+    return word
+
+  # Change word based on the tense
+  return runCommandLineCommand('python tense.py "' + word + '" ' + str(tense))
 
 
 def translateSentence(chineseSentence):
@@ -123,6 +181,7 @@ def translateSentence(chineseSentence):
 
   # Determine POS tags, split chinese sentence
   chinesePOS = getChinesePOS(chineseSentence)
+  chineseTense = getChineseTense(chineseSentence)
   chineseSentence = chineseSentence.split()
   usePOS = len(chinesePOS) == len(chineseSentence)
 
@@ -130,7 +189,7 @@ def translateSentence(chineseSentence):
   possibleSentences = []
   for index, word in enumerate(chineseSentence):
     # Get possible variations (list of strings)
-    variations = getPossibleVariations(word, index, usePOS, chinesePOS)
+    variations = getPossibleVariations(word, index, usePOS, chinesePOS, chineseTense)
 
     # Append variations to each element in possible sentences
     nextSentences = []
@@ -166,7 +225,7 @@ def translateSentence(chineseSentence):
   return result
 
 fillerPOSSet = set(['DEG', 'LB', 'DEV'])
-def getPossibleVariations(word, index, usePOS, chinesePOS):
+def getPossibleVariations(word, index, usePOS, chinesePOS, chineseTense):
   variations = []
   if usePOS:
     chinPOS = chinesePOS[index]
@@ -183,12 +242,13 @@ def getPossibleVariations(word, index, usePOS, chinesePOS):
 
       for engWord in chinDict[word]:
         if engWord.pos == chinPOS[1]:
-          # print('appending', engWord.word)
-          variations.append(engWord.word)
+          translation = changeEnglishTense(engWord.word, chinPOS[1], chineseTense)
+          variations.append(translation)
 
     if len(variations) == 0:
       # fallback to the most frequent translation
-      variations.append(chinDict[word][0].word)
+      translation = changeEnglishTense(chinDict[word][0].word, chinPOS[1], chineseTense)
+      variations.append(translation)
   else:
     variations.append(word)
 
