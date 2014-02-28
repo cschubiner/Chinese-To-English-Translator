@@ -116,7 +116,7 @@ def modifyyi(chineseSentence):
   if not FLAG_FIX_YI:
     return chineseSentence
 
-  regex = re.compile(r'一 .')
+  regex = re.compile(r'一 [.^箱］')
   newChineseSentence = regex.sub('一', chineseSentence)
   return newChineseSentence
 
