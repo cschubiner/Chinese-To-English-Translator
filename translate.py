@@ -52,11 +52,7 @@ def fixPunctuationSpacing(sentence):
   return sentence
 
 def runCommandLineCommand(command):
-  # arr = command.split(' ')
-  # proc = subprocess.Popen([arr[0], command.replace(arr[0],'')], stdout=subprocess.PIPE, shell=False)
   return subprocess.check_output(command, shell=True)
-  # (out, err) = proc.communicate()
-  # return out
 
 def runCommandLineCommand2(command):
   # arr = command.split(' ')
@@ -364,6 +360,10 @@ if __name__ == "__main__":
   outputFilename = 'output/translations_dev.txt'
   corpus = 'corpus_dev_segmented.txt'
   if len(sys.argv) > 1 and sys.argv[1] == '-t': corpus = 'corpus_test_segmented.txt'; outputFilename = 'output/translations_test.txt'
+  if len(sys.argv) > 2:
+     print(translateSentence(codecs.open(corpus, encoding='utf-8').readlines()[int(sys.argv[2])-1]))
+     exit(0)
+
   outputFile = open(outputFilename, 'w')
 
   i = 0
