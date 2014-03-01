@@ -1,0 +1,4954 @@
+起-verb
+start
+begin
+rise
+get up
+set up
+raise
+grow
+unship
+build
+extract
+pull
+work out
+
+
+烟-verb
+smoke
+mist
+vapor
+be irritated by smoke
+vapour
+烟-noun
+tobacco
+fume
+opium
+烟-adjective
+smoky
+nicotinic
+
+
+
+
+
+草-noun
+grass
+straw
+manuscript
+草-adjective
+straw
+rough
+oxalic
+careless
+thatched
+hasty
+
+
+
+
+
+税-noun
+tax
+duty
+dues
+geld
+customs
+税-verb
+geld
+
+将-verb
+will
+would
+use
+get
+prod
+incite to action
+将-auxiliary verb
+shall
+将-preposition
+by
+with
+将-adjective
+ready
+prepared
+将-noun
+general
+check
+
+
+
+
+
+提-verb
+mention
+refer
+raise
+put forward
+bring up
+lift
+extract
+draw out
+take out
+carry
+promote
+shift to an earlier time
+提-noun
+upwards character stroke
+
+
+
+
+高-adjective
+high
+tall
+expensive
+lofty
+loud
+high-priced
+high-up
+高-adverb
+high
+loftily
+高-noun
+height
+highness
+loftiness
+高-pronoun
+your
+
+
+
+
+
+每-pronoun
+each
+每-preposition
+per
+
+
+
+
+
+年-noun
+year
+New Year
+age
+harvest
+
+年-preposition
+in
+
+
+估-verb
+estimate
+appraise
+估-adjective
+old
+secondhand
+
+
+
+
+
+计-noun
+meter
+plan
+idea
+ruse
+stratagem
+计-verb
+count
+calculate
+reckon
+compute
+
+
+
+
+
+带-noun
+band
+stripe
+belt
+ribbon
+area
+region
+girdle
+gird
+girt
+带
+riband
+带-verb
+carry
+lead
+wear
+bring up
+show
+consist of
+带-adjective
+striped
+带-conjunction
+and
+
+
+
+
+
+来-verb
+come
+arrive
+take place
+occur
+nigh
+来
+crop up
+来
+来-adjective
+coming
+incoming
+来
+
+
+
+
+
+额-noun
+amount
+quantity
+volume
+forehead
+brow
+quota
+quantum
+horizontal tablet
+额
+
+
+
+
+
+外-adjective
+outside
+external
+outer
+foreign
+outward
+extrinsic
+imported
+外
+unofficial
+外-adverb
+beyond
+in addition
+besides
+
+
+
+
+
+万-number
+ten thousand
+万-noun
+myriad
+all
+large number
+万
+great number
+万
+万-adverb
+absolutely
+extremely
+
+
+
+
+
+元-noun
+yuan
+元
+dollar
+Yuan Dynasty
+元
+元-adjective
+primary
+basic
+first
+
+
+
+
+
+的-preposition
+of
+的-noun
+aim
+的-adverb
+really and truly
+的
+的-particle
+possessive particle
+的
+的-auxiliary verb
+ablative cause suffix
+的
+的-suffix
+-self
+的
+
+
+
+
+
+税-noun
+tax
+duty
+dues
+geld
+税
+customs
+税-verb
+geld
+
+
+
+
+
+收-noun
+income
+receipts
+收
+harvest
+sweeping
+收-verb
+receive
+collect
+accept
+stop
+
+
+
+
+
+酒-noun
+wine
+liquor
+spirits
+alcohol
+guzzle
+酒
+
+
+
+
+
+精-adjective
+fine
+refined
+precise
+excellent
+splendid
+smart
+exquisite
+proficient
+skillful
+skilful
+seminal
+精
+skilled
+perfect
+shrewd
+sharp
+picked
+rectified
+精
+prepared
+shelled
+精
+精-noun
+essence
+inwardness
+extract
+demon
+daemon
+fiend
+inbeing
+精
+incubus
+python
+whatness
+精
+import
+virtuality
+精
+
+
+
+
+
+税-noun
+tax
+duty
+dues
+geld
+税
+customs
+税-verb
+geld
+
+
+
+
+
+也-adverb
+also
+too
+
+
+
+
+
+将-verb
+will
+would
+use
+get
+prod
+incite to action
+将
+将-auxiliary verb
+shall
+将-preposition
+by
+with
+将-adjective
+ready
+prepared
+将-noun
+general
+check
+
+
+
+
+
+提-verb
+mention
+refer
+raise
+put forward
+bring up
+lift
+extract
+draw out
+take out
+carry
+promote
+shift to an earlier time
+提
+提-noun
+upwards character stroke
+提
+
+
+
+
+
+高-adjective
+high
+tall
+expensive
+lofty
+loud
+high-priced
+高
+high-up
+高
+高-adverb
+high
+loftily
+高-noun
+height
+highness
+loftiness
+高-pronoun
+your
+
+
+
+
+
+每-pronoun
+each
+每-preposition
+per
+
+
+
+
+
+来-verb
+come
+arrive
+take place
+occur
+nigh
+来
+crop up
+来
+来-adjective
+coming
+incoming
+来
+
+
+
+
+
+亿-number
+hundred million
+亿-verb
+calculate
+
+
+
+
+
+的-preposition
+of
+的-noun
+aim
+的-adverb
+really and truly
+的
+的-particle
+possessive particle
+的
+的-auxiliary verb
+ablative cause suffix
+的
+的-suffix
+-self
+的
+
+
+
+
+
+额-noun
+amount
+quantity
+volume
+forehead
+brow
+quota
+quantum
+horizontal tablet
+额
+
+
+
+
+
+外-adjective
+outside
+external
+outer
+foreign
+outward
+extrinsic
+imported
+外
+unofficial
+外-adverb
+beyond
+in addition
+besides
+
+
+
+
+
+税-noun
+tax
+duty
+dues
+geld
+税
+customs
+税-verb
+geld
+
+
+
+
+
+收-noun
+income
+receipts
+收
+harvest
+sweeping
+收-verb
+receive
+collect
+accept
+stop
+
+
+
+
+
+从-preposition
+from
+从-adjective
+secondary
+lax
+unhurried
+accessory
+从
+从-adverb
+ever
+从-verb
+obey
+follow
+observe
+be engaged
+从-noun
+second cousin
+从
+follower
+
+
+
+
+
+即-adverb
+immediately
+promptly
+scilicet
+即-verb
+approach
+reach
+
+
+
+
+
+日-noun
+date
+day
+Japan
+Sun
+日
+日-adjective
+Japanese
+
+政-noun
+politics
+政治, 政, 政见
+political affairs
+政
+
+府-noun
+prefecture
+州, 府, 专区, 地方官职位, 管区
+mansion
+大厦, 府, 厦, 邸
+official residence
+官邸, 府
+
+正-adjective
+positive
+正, 积极, 正面, 阳, 肯定的
+correct
+正确, 正, 端正, 不错, 是, 然
+main
+主要, 主, 最主要, 主干, 正, 优势
+正-adverb
+just
+只是, 刚刚, 只, 刚, 刚好, 正
+straight
+直, 直接, 直行, 正, 直接地
+upright
+正, 婞
+正-verb
+correct
+纠正, 更正, 修正, 改正, 订正, 正
+正-noun
+Chinese first month of year
+正
+
+在-preposition
+in
+在, 中, 于, 里, 其中, 里边
+at
+在, 于, 当, 对, 靠近, 靠
+在-verb
+be
+是, 为, 在, 有, 做, 当
+exist
+存在, 有, 存, 生存, 是, 在
+remain
+仍, 留, 停留, 残留, 留下, 在
+dwell
+住, 居住, 居, 在, 栖, 处
+be alive
+在世, 在
+belong to an organization
+在
+be located somewhere
+在
+depend
+依赖, 依靠, 靠, 依, 有赖, 在
+
+开-verb
+open
+打开, 开放, 开, 开设, 拆开, 开幕
+open up
+打开, 开拓, 开辟, 打通, 开, 开发
+start
+开始, 启动, 起动, 始, 开头, 开
+hold
+保持, 持有, 举行, 保留, 抱, 开
+operate
+操作, 经营, 运转, 操纵, 作业, 开
+run
+运行, 执行, 经营, 跑, 办, 开
+open out
+开, 变宽, 扩充, 扩大, 宽展
+set up
+设置, 成立, 设立, 建立, 设, 开
+write out
+开, 全部写出
+make out
+做, 开, 隐射, 认, 迹察, 认出
+steer
+驾驶, 开, 继
+make an opening
+开
+come loose
+散, 开
+开-noun
+Kelvin
+开
+karat
+开
+
+始-noun
+beginning
+开始, 开头, 初, 初期, 开端, 始
+start
+始, 开头, 开端, 初期, 初, 头
+始-verb
+start
+开始, 启动, 起动, 始, 开头, 开工
+begin
+开始, 开头, 始, 起, 开工, 开幕
+
+一-article
+a
+一个, 一
+一
+one
+一, 之一, 壹
+一-adjective
+single
+单, 单一, 单个, 单身, 一, 独
+once
+一, 之一, 壹
+
+场-noun
+field
+领域, 场, 田, 野外, 方面, 田间
+scene
+现场, 场面, 情景, 景象, 景, 场
+place
+位置, 地方, 地点, 场所, 处, 场
+stage
+阶段, 舞台, 期, 台, 步, 场
+open space
+隙地, 场, 野
+courtyard
+庭院, 院, 院子, 院落, 庭, 场
+
+
+透-adverb
+through
+通, 透, 穿, 直到
+thoroughly
+透, 根本, 清, 透顶, 洞, 穷
+fully
+十分, 透, 备, 毕, 截然
+透-verb
+penetrate
+穿透, 渗入, 贯穿, 透, 穿, 看穿
+pass through
+通过, 穿过, 穿越, 经, 透过, 透
+appear
+出现, 似乎, 呈现, 显现, 显, 透
+seep through
+漓, 透
+tell secretly
+透
+show
+显示, 表明, 演出, 表示, 表现, 透
+透-adjective
+saturating
+透
+
+明-adjective
+next
+下, 未来, 下面, 明, 翌, 下边
+clear
+明确, 清楚, 明显, 晴, 清, 明
+bright
+光明, 辉, 光亮, 明, 聪明, 有光
+apparent
+显, 明, 逴, 表面的, 明显的
+clear-sighted
+精明, 明
+明-verb
+understand
+了解, 理解, 明白, 懂, 懂得, 明
+know
+知道, 认识, 知, 懂得, 晓得, 明
+明-noun
+Ming Dynasty
+明代, 明
+
+革-noun
+leather
+皮革, 皮, 革, 皮子, 韦, 覆以皮革
+hide
+皮, 革, 皮子, 躲藏处
+革-verb
+transform
+转换, 改造, 转变, 改变, 变, 革
+expel
+驱逐, 开除, 逐出, 排, 赶出, 革
+remove from position
+撤差, 撤职, 黜, 革, 罢斥, 
+
+命-noun
+life
+生活, 生命, 寿命, 人生, 命, 生
+command
+命令, 指令, 命, 令, 帅
+order
+令, 命令, 顺序, 秩序, 次序, 命
+fate
+命运, 命, 运气, 运, 气数, 死活
+lot
+命运, 运气, 阄, 遭遇, 命, 运
+
+天-noun
+day
+日, 天, 日子, 白天, 昼, 旦
+sky
+天空, 天, 空, 霄, 过分地
+heavens
+天, 过分地
+God
+上帝, 天, 老天爷, 菩萨
+weather
+天气, 天, 气
+nature
+性质, 自然, 性, 本质, 大自然, 天
+season
+季节, 季, 时节, 时令, 候, 天
+天-adverb
+overhead
+天, 在楼上, 在上边
+
+下-preposition
+under
+下, 根据, 之下, 以下, 下面, 底下
+below
+下面, 以下, 下, 下边, 底下, 在 ... 下面
+underneath
+下, 在 ... 下面, 在 ... 之下, 在 ... 下方
+下-adjective
+next
+下, 未来, 下面, 明, 翌, 下边
+lower
+下
+inferior
+下, 劣势, 劣, 低劣, 亚, 不及
+latter
+下, 近来的
+下-adverb
+down
+向下, 下
+downward
+向下, 下
+downwards
+向下, 下
+下-verb
+fall
+下降, 下跌, 跌, 落, 摔倒, 下
+descend
+下, 降, 降落, 下去
+go down
+下去, 下降, 下, 落, 减退, 淊
+put in
+投入, 投放, 下, 加, 投, 揣
+alight
+落, 降落, 落下, 下
+spate
+泛滥, 下
+give birth to
+育, 下
+make a move
+下, 动窝儿
+get off
+下车, 下, 继
+cast
+投, 投射, 抛, 撒, 下, 撇
+come off
+剥离, 掉, 脱, 下, 得手
+下
+second of two parts
+下
+
+午-noun
+noon
+中午, 正午, 午, 晌, 午夜, 当午
+midday
+中午, 正午, 午, 当午
+noonday
+午, 正午, 中午, 当午
+seventh earthly branch
+午
+午-abbreviation
+11 a.m.-1 p.m.
+午
+
+妈-noun
+mom
+妈妈, 妈, 妈咪
+mama
+妈妈, 妈, 妈咪, 嬷, 性感的成熟女人
+ma
+妈, 嬷, 娘
+momma
+妈妈, 妈, 妈咪
+mamma
+妈妈, 乳房, 妈, 嬷, 妈咪, 性感的成熟女人
+
+我-pronoun
+I
+我, 余, 吾, 个人, 朕, 鄙人
+me
+我, 余
+myself
+我, 本人, 独自, 我自己
+
+去-noun
+go
+去, 进行
+去-verb
+go
+去, 前往, 走, 赴, 行, 离去
+remove
+消除, 清除, 拆除, 排除, 除, 去
+leave
+离开, 留, 给, 离, 走, 去
+
+公-adjective
+public
+公共, 公众, 公开, 公, 国有, 国立
+fair
+公平, 公正, 公, 持平, 允, 均等
+just
+公正, 公平, 义, 直, 公, 允
+common
+共同, 常见, 普通, 共, 一般, 公
+metric
+公, 测量的, 韵律的
+general
+一般, 总, 普通, 一般性, 普遍, 公
+honorable
+体面, 光彩, 诚实, 义, 懿, 公
+state-owned
+公, 国有
+公-noun
+male
+男性, 男, 公, 男子, 男人, 牡
+duke
+公爵, 公
+public affairs
+公务, 公
+husband's father
+公, 公公
+father-in-law
+公, 公公, 翁, 岳父, 嫜
+公-adverb
+generally
+通常, 公
+公-verb
+make public
+公开, 公布, 公, 披露, 
+
+园-noun
+garden
+花园, 园, 园林, 圃, 苑, 果园
+
+散-verb
+scatter
+分散, 散, 撒, 离散, 散开, 扬
+disperse
+分散, 驱散, 散, 离散, 散开, 頖
+break up
+分裂, 拆散, 分割, 驱散, 散, 粉碎
+dispel
+打消, 祛除, 祛, 解, 消, 散
+distribute
+分发, 散布, 分配, 发布, 散发, 散
+give out
+放, 散, 播散
+come loose
+散, 开
+disseminate
+传播, 宣传, 发放, 散布, 普及, 散
+fall apart
+散架, 崩溃, 四分五裂, 散, 圮
+
+步-noun
+step
+步骤, 步, 一步, 步伐, 脚步, 级
+pace
+步伐, 速度, 步, 脚步, 步调, 步子
+stage
+阶段, 舞台, 期, 台, 步, 场
+footsteps
+步伐, 步, 步子
+步-adjective
+walking
+步
+步-verb
+walk
+步行, 走, 走路, 行走, 步, 行
+foot
+步行, 走路, 步
+tread
+践踏, 踏, 踩, 踹, 蹈, 步
+go on foot
+步行, 走路, 步
+stage in a process
+步
+
+奥-adjective
+abstruse
+深奥, 奥, 玄妙, 奥妙, 沕
+mysterious
+神秘, 玄, 玄妙, 莫名其妙, 邃, 奥
+profound
+深刻, 深厚, 深切, 深奥, 深, 奥
+obscure
+朦胧, 无名, 晦涩, 隐晦, 灰色, 奥
+difficult to understand
+奥
+奥-noun
+oersted
+奥斯特, 奥
+
+林-noun
+forest
+森林, 林, 林木, 森, 树林, 丛林
+wood
+木, 木材, 木头, 树林, 林, 樿
+jungle
+丛林, 林
+
+
+匹-verb
+match
+相配, 配, 比拟, 匹, 相称, 抗衡
+equal
+等于, 等同, 相当, 当, 合, 匹
+be equal
+等于, 等同, 相当, 匹, 当, 合
+匹-noun
+mate
+伴侣, 配偶, 对手, 匹, 交, 耦
+one of a pair
+匹, 只
+
+克-noun
+gram
+克, 鹰嘴豆, 公分
+gramme
+克, 公分
+克-verb
+overcome
+克服, 克, 攻下, 驯
+subdue
+征服, 制伏, 制胜, 折服, 克, 降
+digest
+消化, 克
+restrain
+抑制, 克制, 阻止, 按捺, 抑止, 克
+can
+可以, 可, 能, 能够, 会, 克
+capture
+捕获, 抓住, 占领, 攻克, 捕, 
+
+运-adjective
+transport
+运
+运-noun
+transport
+运输, 输送, 运, 转运, 输, 航运
+transportation
+运输, 输送, 运, 输, 转运
+conveyance
+输送, 运送, 运输工具, 运输, 运, 输
+luck
+运气, 运, 幸运, 时运
+fortune
+幸运, 运气, 时运, 运, 阄
+fate
+命运, 命, 运气, 运, 气数, 死活
+destiny
+命运, 运, 运气, 遭遇, 气数, 遭
+lot
+命运, 运气, 阄, 遭遇, 命, 运
+carriage
+运输, 马车, 运送, 运, 体态, 舆
+traffic
+交通, 运输, 运, 转运, 贸易
+haul
+运输, 拖拉, 运, 拖, 运送
+chance
+机会, 偶然, 偶然性, 机, 运气, 运
+doom
+厄运, 死命, 死亡, 运, 殒命, 运气
+honeyfall
+运气, 运
+predestination
+运气, 运
+运-verb
+transport
+运输, 传输, 运送, 输送, 运, 搬运
+ship
+运送, 运输, 运, 发送, 转运, 发
+haul
+运输, 拖拉, 拉, 运, 拖, 拖运
+convey
+输送, 传达, 传送, 表达, 传, 运
+vehicle
+运输, 运, 运送, 转运
+
+动-verb
+move
+移动, 动, 行动, 移, 搬家, 迁移
+act
+扮演, 做, 做事, 表演, 演, 动
+touch
+触摸, 联系, 触及, 触, 碰, 动
+stir
+搅拌, 轰动, 搅, 搅动, 动, 拨
+arouse
+引起, 激发, 唤起, 激起, 唤醒, 动
+use
+使用, 利用, 用, 采用, 运用, 动
+
+会-verb
+can
+可以, 可, 能, 能够, 会, 堪
+be able to
+能够, 可以, 可, 会
+meet
+满足, 见, 见面, 会见, 会面, 会
+see
+看到, 看, 见, 看见, 看出, 会
+be sure
+务必, 肯定, 确信, 诚然, 必定, 会
+be likely to
+会
+assemble
+组合, 聚集, 集合, 集聚, 组成, 会
+get together
+聚会, 张罗, 聚, 聚合, 会, 会面
+balance an account
+会
+understand
+了解, 理解, 明白, 懂, 懂得, 会
+pay a bill
+会帐, 会
+be skilful
+会
+会-noun
+conference
+会议, 会, 谈判, 会晤, 会社
+society
+社会, 学会, 协会, 会, 社, 社交界
+association
+协会, 会, 联想, 学会, 组合, 交往
+meet
+集会, 会
+union
+联盟, 工会, 联合, 盟, 会, 联合会
+opportunity
+机会, 机遇, 时机, 机, 会, 隙
+party
+党, 当事人, 一行, 舞会, 会, 帮
+gathering
+采集, 搜集, 采, 会, 局
+accounting
+会计, 会
+capital
+资本, 首都, 资, 大写, 本钱, 会
+get-together
+会, 聚会
+会-adjective
+able
+能够, 能, 能力, 会, 干, 贤
+
+每-pronoun
+each
+每, 各, 各个, 各自, 个自
+每-preposition
+per
+每, 由
+
+四-number
+four
+
+
+年-noun
+year
+年, 年度, 岁, 年头, 春秋, 秋
+New Year
+新年, 年
+age
+年龄, 时代, 龄, 年纪, 年代, 年
+harvest
+收成, 收, 年成, 获, 年, 稔
+
+举-noun
+move
+举动, 运动, 举, 步骤, 行径, 跞
+act
+法案, 作为, 法令, 条例, 举动, 举
+deed
+契据, 契约, 契, 作为, 举, 券
+举-verb
+lift
+举起, 抬, 举, 掀, 提, 掀起
+raise
+提高, 提出, 养, 募集, 升起, 举
+elect
+选, 选举, 推选, 推举, 举
+enumerate
+枚举, 列举, 罗列, 历数, 举, 数说
+hold up
+耽误, 承受, 拦截, 擎, 举, 撩
+choose
+选择, 选, 选购, 挑选, 择, 举
+
+办-verb
+do
+做, 办, 进行, 干, 作, 行
+run
+运行, 执行, 经营, 跑, 办, 奔跑
+handle
+处理, 拉手, 办理, 应付, 处置, 办
+manage
+管理, 管, 经营, 理, 治理, 办
+deal with
+处理, 应付, 处置, 办理, 周旋, 办
+set up
+设置, 成立, 设立, 建立, 设, 办
+ready
+准备, 预备, 备, 打点, 谡, 办
+tackle
+抓住, 办, 逮捕
+go about
+办, 四处走动
+bring to justice
+办
+get ready
+准备, 预备, 打点, 备, 办, 谡
+make ready
+预备, 准备, 备, 打点, 谡, 办
+buy a fair amount of
+办
+
+次-adjective
+secondary
+次要, 次, 副, 从, 第二性, 附带
+次-noun
+order
+令, 命令, 顺序, 秩序, 次序, 次
+number
+编号, 数, 号, 号码, 数目, 次
+bout
+回合, 次
+sequence
+序列, 顺序, 序, 次序, 程序, 次
+
+每-pronoun
+each
+每, 各, 各个, 各自, 个自
+每-preposition
+per
+每, 由
+
+届-noun
+session
+period
+期间, 期, 时期, 周期, 时间, 届
+届-verb
+arrive at
+届
+become due
+到期, 届
+fall due
+届
+
+期-noun
+period
+期间, 期, 时期, 周期, 时间, 时代
+phase
+相, 阶段, 期, 时期, 局面, 段落
+stage
+阶段, 舞台, 期, 台, 步, 场
+term
+期, 术语, 项, 学期, 词, 用语
+time
+时间, 时, 时候, 时刻, 期间, 期
+scheduled time
+期
+期-verb
+expect
+预期, 期望, 期待, 希望, 想到, 期
+hope
+希望, 望, 期望, 希, 指望, 期
+make an appointment
+相约, 期
+期-adjective
+alloted
+期
+promissory
+期
+
+不-adverb
+not
+不, 未, 非, 无, 没, 毋
+不-adjective
+no
+没有, 不
+不-noun
+no
+不, 拒绝
+不-prefix
+non-
+非, 不
+a-
+不
+il-
+不
+im-
+不
+in-
+不
+ir-
+不
+un-
+不, 非, 没
+
+超-verb
+exceed
+超过, 超越, 超出, 超, 逾, 优于
+surpass
+超过, 超越, 优于, 超, 赛过, 越
+transcend
+超越, 超, 嶢
+go beyond
+超出, 超, 逾
+overtake
+超车, 追上, 赶上, 超, 赶, 赛过
+cross
+交叉, 交, 过, 横过, 渡, 超
+pass
+通过, 传, 经过, 过, 关, 超
+
+过-verb
+cross
+交叉, 交, 过, 横过, 渡, 穿
+live
+生活, 住, 活, 居住, 过, 过活
+pass
+通过, 传, 经过, 过, 关, 递
+tick
+勾, 过, 滴滴答答的响
+
+天-noun
+day
+日, 天, 日子, 白天, 昼, 旦
+sky
+天空, 天, 空, 霄, 过分地
+heavens
+天, 过分地
+God
+上帝, 天, 老天爷, 菩萨
+weather
+天气, 天, 气
+nature
+性质, 自然, 性, 本质, 大自然, 天
+season
+季节, 季, 时节, 时令, 候, 天
+天-adverb
+overhead
+天, 在楼上, 在上边
+
+你-pronoun
+you
+您, 你, 你们, 侬, 尔
+
+说-verb
+say
+说, 表示, 讲, 称, 言, 说话
+tell
+告诉, 说, 诉说, 讲, 告, 诉
+speak
+发言, 说话, 说, 讲, 讲话, 言
+talk
+说话, 谈, 谈论, 说, 讲, 论
+lecture
+演讲, 讲课, 说
+persuade
+说服, 劝说, 说, 相劝
+convince
+说服, 信服, 说, 使信服
+reproach
+责备, 叱责, 斥骂, 数落, 责, 说
+upbraid
+吒, 抱怨, 说, 斥骂, 谪, 数说
+admonish
+谏, 告诫, 训诫, 劝戒, 诫, 说
+reprimand
+惩戒, 申斥, 训斥, 训诫, 斥, 说
+reassure
+慰, 说, 鼓起勇气, 再保证
+tell off
+抢白, 说
+come in between
+说
+expostulate
+劝戒, 忠告, 说
+lull
+麻痹, 说
+work on
+说
+mediate
+调解, 斡旋, 调停, 调和, 调处, 说
+reconcile
+调和, 和解, 调停, 排解, 说, 和好
+说-noun
+talking
+说, 通话
+reproach
+说, 谪, 数说
+rebuke
+非难, 说, 谪, 数说
+reproof
+非难, 督, 说, 数说
+reproval
+说, 督, 非难, 数说
+dressing down
+斥责, 说
+wigging
+说
+intermediary
+媒介, 中, 媒, 媒介物, 说
+说-adjective
+spoken
+说, 语, 口
+
+我-pronoun
+I
+我, 余, 吾, 个人, 朕, 鄙人
+me
+我, 余
+myself
+我, 本人, 独自, 我自己
+
+就-preposition
+on
+上, 于, 关于, 就, 上面, 上边
+concerning
+就, 关於
+就-adverb
+then
+然后, 则, 接着, 于是, 当时, 就
+with regard
+就
+already
+已经, 已, 就, 既, 曾经, 曾
+only
+只有, 仅, 只, 唯一, 只是, 就
+at once
+立刻, 马上, 登时, 就, 当即, 迅即
+right away
+马上, 就, 当即, 当时
+right off
+马上, 就, 当即, 当时
+就-conjunction
+that
+该, 因为, 就
+as soon as
+就
+as early as
+就
+就-verb
+undertake
+承担, 承办, 从事, 保证, 担当, 就
+move towards
+走向, 就, 迎
+approach
+逼近, 来临, 助跑, 迫近, 靠拢, 就
+enter
+进入, 进, 入, 就, 晋
+
+像-noun
+image
+图片, 图像, 影像, 像, 形像, 影
+elephant
+象, 像
+resemblance
+相似, 像, 类似点, 相似性
+likeness
+像
+appearance
+出现, 外形, 外貌, 样子, 模样, 像
+similarity
+相似, 类似, 像, 相似性
+像-verb
+be like
+像, 仿, 肖
+look like
+像
+resemble
+类似, 像, 相似, 象, 似, 相像
+look
+看, 注意, 注视, 像, 瞅, 观
+seem
+似乎, 显得, 仿佛, 似, 觉得, 像
+appear to
+像
+be not unlike
+像
+strike
+罢工, 击, 打击, 走向, 撞击, 像
+像-adjective
+similar to
+像
+
+油-noun
+oil
+油, 石油, 膏
+grease
+润滑脂, 油脂, 脂, 油, 脂膏
+paint
+油漆, 涂料, 漆, 画, 颜料, 油
+matelote
+油, 水手鱼
+油-adjective
+fat
+胖, 肥, 油, 丰厚, 丰满, 奘
+
+条-noun
+article
+文章, 条, 物品, 品, 条款, 条文
+strip
+条, 条子, 长带, 长条, 带材
+slip
+滑, 条, 溜, 溜走, 衬裙, 差错
+item
+项目, 项, 一项, 条, 件, 事项
+stripe
+条纹, 条, 带, 斑纹, 斑, 彪
+order
+令, 命令, 顺序, 秩序, 次序, 条
+twig
+枝条, 枝, 条, 树条
+long narrow piece
+条
+条-auxiliary verb
+measure word for long pieces
+条
+
+很-adverb
+very
+非常, 很, 十分, 挺, 甚, 太
+quite
+相当, 很, 比较, 挺, 颇, 蛮
+extremely
+非常, 极, 极其, 万分, 很, 异常
+passing
+非常, 很
+strongly
+非常, 很
+strong
+非常, 很, 使劲地, 有力地
+mighty
+极, 很
+bitterly
+痛, 非常, 极, 残酷, 很, 苦苦地
+spanking
+非常, 很, 极端, 极其, 郅
+parlous
+非常, 很
+
+简-adjective
+simple
+简单, 简易, 简, 单纯, 朴素, 朴实
+simplified
+简
+brief
+简要, 简短, 短暂, 简, 简略, 短
+biographical
+简
+common
+共同, 常见, 普通, 共, 一般, 简
+简-noun
+letter
+函件, 信, 字母, 函, 书, 简
+
+单-adjective
+single
+单, 单一, 单个, 单身, 一, 独
+odd
+奇, 奇怪, 多, 单, 余, 怪
+solitary
+孤, 单, 独居, 茕, 独身, 寂
+unlined
+单
+thin
+薄, 瘦, 细, 单薄, 纤细, 单
+unrequited
+单
+weak
+弱, 薄弱, 软弱, 微弱, 虚弱, 单
+单-adverb
+alone
+单, 孤单, 单纯, 单单, 唯, 惟
+only
+只有, 仅, 只, 唯一, 只是, 单
+单-noun
+list
+表, 目录, 单, 明细表, 目, 谱
+sheet
+片, 薄板, 单, 被单, 一张, 床单
+bill
+法案, 帐单, 票据, 议案, 单, 汇票
+chieftain
+头目, 首领, 头子, 单
+
+却-conjunction
+but
+但, 但是, 不过, 而, 可是, 却
+however
+然而, 但是, 但, 不过, 可是, 却
+yet
+然而, 但, 但是, 而, 却, 可
+while
+而, 却, 当时, 正在, 际, 斯
+却-verb
+refuse
+拒绝, 拒, 谢绝, 却, 推却, 抗
+decline
+拒绝, 下降, 衰退, 衰, 谢绝, 却
+reject
+拒绝, 拒, 排斥, 驳回, 抵制, 却
+retreat
+撤退, 退却, 退, 后退, 退兵, 却
+repulse
+击退, 打退, 逐退, 却, 厌恨
+step back
+却步, 却
+
+很-adverb
+very
+非常, 很, 十分, 挺, 甚, 太
+quite
+相当, 很, 比较, 挺, 颇, 蛮
+extremely
+非常, 极, 极其, 万分, 很, 异常
+passing
+非常, 很
+strongly
+非常, 很
+strong
+非常, 很, 使劲地, 有力地
+mighty
+极, 很
+bitterly
+痛, 非常, 极, 残酷, 很, 苦苦地
+spanking
+非常, 很, 极端, 极其, 郅
+parlous
+非常, 很
+
+
+美-abbreviation
+US
+美, 美国
+USA
+美国, 美
+美-adjective
+beautiful
+美丽, 漂亮, 优美, 美, 秀丽, 美妙
+good
+好, 良好, 佳, 优良, 善, 美
+pretty
+漂亮, 美丽, 俏, 美, 姿色, 秀丽
+
+
+好-adjective
+good
+好, 良好, 佳, 优良, 善,
+好-adverb
+well
+好, 很好, 顺, 顺利, 安好, 舒服
+OK
+好
+fine
+好, 非常好
+okay
+好
+okey
+好
+okey dokey
+好
+好-verb
+love
+爱, 喜欢, 恋爱, 喜爱, 恋, 好
+like
+喜欢, 喜爱, 喜, 喜好, 爱好, 好
+
+中-preposition
+in
+在, 中, 于, 里, 其中, 里边
+during
+中, 在 ... 期间
+among
+其中, 之间, 间, 中, 当中, 中间
+within
+内, 中, 里边, 在 ... 之内
+amid
+中, 在 ... 之中, 在其间
+amidst
+中, 在 ... 之中, 在其间
+in the course of
+中
+in the process of
+正在, 中
+中-adjective
+medium
+中, 中等, 中介, 偏生, 中号
+central
+中央, 中, 重要, 优势, 中心的
+mean
+卑鄙, 刻薄, 中, 卑劣, 薄, 吝
+polytechnic
+中, 工艺的
+中-noun
+middle
+中间, 中, 中央, 正中, 腰, 半中腰
+center
+中心, 中央, 中间, 心, 中, 正中
+centre
+中心, 中央, 中间, 心, 中, 正中
+mid
+中, 中间
+intermediary
+媒介, 中, 媒, 媒介物, 说
+中-verb
+hit the mark
+中
+fit
+适合, 合适, 适应, 合
+
+临-verb
+face
+面对, 面, 面向, 正视, 朝向, 临
+arrive
+到达, 抵达, 到, 来到, 来, 临
+overlook
+俯瞰, 忽略, 俯视, 忘记, 漠视, 临
+be about to
+就要, 临
+临-preposition
+just before
+临
+
+为-preposition
+for
+对于, 为, 供, 于, 给, 替
+为-verb
+be
+是, 为, 在, 有, 做, 当
+serve as
+充当, 为, 当, 充
+act as
+充当, 为, 充
+become
+成为, 变成, 变, 成, 为, 做
+mean
+意味着, 表示, 意味, 为, 意图
+make
+使, 制造, 让, 做, 制作, 为
+为-conjunction
+because of
+为
+主-adjective
+main
+主要, 主, 最主要, 主干, 正, 优势
+primary
+主要, 初级, 主, 原, 第一, 最初
+主-noun
+master
+主, 硕士, 大师, 师傅, 师, 老爷
+lord
+主, 阁下, 勋爵, 老爷, 贵族, 君主
+host
+主, 主持人, 主人, 许多, 大群, 东家
+owner
+业主, 所有者, 主, 物主, 经理, 所有主
+Allah
+真主, 阿拉, 主
+person concerned
+主
+party concerned
+主
+主-verb
+advocate
+主张, 提倡, 主, 崇尚, 倡, 宣扬
+direct
+指导, 指挥, 导向, 指令, 导演, 主
+indicate
+表明, 表示, 指出, 标明, 指, 主
+manage
+管理, 管, 经营, 理, 治理, 主
+signify
+表示, 意味着, 表明, 象征, 主
+hold a definite view about
+主
+
+之-auxiliary verb
+subordinate particle
+之
+之-pronoun
+her
+其, 之, 亓, 她的
+him
+他, 之
+it
+它, 其, 之
+
+亡-verb
+die
+死, 冲模, 去世, 亡, 逝世, 身故
+perish
+亡, 沦, 毁灭, 消灭, 消亡, 腐烂
+人-noun
+people
+人, 人民, 人们, 民, 民众, 民族
+person
+人, 人士, 者, 人身, 员, 身
+man
+人, 男子, 男人, 男性, 男, 男子汉
+human being
+人
+personality
+个性, 人, 名人
+folk
+人, 人们, 人家, 众人
+adult
+成人, 成年, 人, 成年者
+manpower
+人手, 劳动力, 人, 兵源
+Palestinian
+人
+hand
+手, 人, 巴掌, 笔迹, 雇员
+character
+字符, 人物, 性格, 字, 性质, 人
+grown-up
+成年,
+件-noun
+item
+项目, 项, 一项, 条, 件, 事项
+clothes
+衣服, 服装, 服, 衣, 衣裳, 件
+件-auxiliary verb
+measure word for a piece
+件
+
+使-verb
+make
+使, 制造, 让, 做, 制作, 作
+cause
+导致, 引起, 使, 致, 令, 使得
+use
+使用, 利用, 用, 采用, 运用, 使
+apply
+应用, 申请, 运用, 敷, 采用, 使
+send
+发送, 送, 寄, 寄送, 发, 使
+tell to do
+使
+使-noun
+envoy
+使者, 使节, 使, 大使
+使-adjective
+causative
+使, 成为原因的
+factitive
+使
+使-conjunction
+if
+如果, 如, 是否, 倘, 假如, 使
+supposing
+假如, 倘若, 使, 假若, 倘, 臆说
+
+充-verb
+charge
+充, 指控, 冲锋, 控告, 控, 冲
+fill
+填, 满, 满足, 充, 盛, 弥漫
+serve as
+充当, 为, 当, 充
+act as
+充当, 为, 充
+pose
+提出, 摆, 假充, 充, 作态
+pass off
+消失, 混, 不见, 充
+充-adjective
+sufficient
+足够, 充, 充足, 足以, 足, 充份
+full
+充分, 充满, 饱满
+其-pronoun
+its
+其, 亓, 它的
+their
+其, 亓, 他们的
+it
+它, 其, 之
+his
+其, 厥, 亓, 他的
+that
+那, 那个, 其, 彼
+they
+他们, 它们, 她们, 其
+her
+其, 之, 亓, 她的
+he
+他, 其, 伊
+she
+她, 伊, 其
+this
+本, 这, 此, 这个, 这项, 其
+其-adjective
+such
+这样, 这么, 其, 偌
+
+养-verb
+support
+支持, 支援, 帮助, 支撑, 支, 养
+raise
+提高, 提出, 养, 募集, 升起, 抬高
+grow
+增长, 生长, 发展, 长, 壮大, 养
+keep
+保持, 保留, 保存, 维持, 保管, 养
+maintain
+保持, 维持, 维护, 保留, 维修, 养
+cultivate
+培育, 培植, 栽培, 耕种, 养殖, 养
+rest
+休息, 休憩, 安息, 休, 歇, 养
+give birth
+生, 生育, 产, 养
+acquire
+获得, 取得, 学到, 添置, 树立, 养
+head
+为首, 率领, 前进, 养, 羑
+itch
+痒, 发痒, 痒痒, 养
+form
+形成, 构成, 构, 结, 组织, 养
+provide
+提供, 规定, 供, 供应, 给, 养
+养-adjective
+adoptive
+养, 义, 采用的, 收养关
+
+农-noun
+agriculture
+农业, 农, 农艺, 农学
+farming
+农业, 农, 耕作, 农事
+farmer
+农民, 农夫, 农户, 农场主, 农, 佃
+peasant
+农, 农
+几-adverb
+a few
+几个, 几, 一些, 两
+almost
+几乎, 差不多, 将近, 几, 殆, 险
+nearly
+几乎, 将近, 差不多, 险些, 几, 险
+how many
+几
+how much
+多少, 几
+practically
+几乎, 事实上, 几
+几-adjective
+several
+几个, 数, 几, 好几, 些, 异
+some
+一些, 有些, 某些, 几个, 有的, 几
+几-pronoun
+how many
+几
+几-noun
+small table
+几
+
+力-noun
+force
+力, 部队, 力量, 武力, 动力, 势力
+strength
+强度, 力量, 实力, 力, 强, 力气
+power
+功率, 权力, 
+加-verb
+add
+加, 补充, 添, 增, 还说, 兑
+sum
+加, 并集
+increase
+提高, 增长, 增, 增强, 加, 加强
+put in
+投入, 投放, 下, 加, 投, 揣
+subjoin
+附加, 添, 加, 增加, 加上
+加-preposition
+plus
+加, 增加
+
+华-noun
+China
+中国, 华, 中华
+flower
+花, 开花, 花儿, 英, 华
+flora
+华, 植物群
+华-adjective
+magnificent
+壮丽, 华, 雄伟, 豪华, 灿烂, 盛大
+splendid
+锦绣, 灿烂, 辉煌, 精彩, 优秀, 华
+flowery
+如花, 花, 花哨, 华, 华丽的
+gray
+灰, 灰白, 灰暗, 花白, 苍苍, 华
+flashy
+华, 表面上的, 伪装的
+prosperous
+繁荣, 兴旺, 旺, 昌盛, 昌, 华
+
+历-noun
+calendar
+日历, 历
+experience
+经验, 经历, 阅历, 历, 见识, 熟练
+历-verb
+experience
+经验, 经历, 阅历, 历, 经受, 阅世
+undergo
+经历, 经受, 遭受, 历, 意会
+pass through
+通过, 穿过, 穿越, 经, 透过, 历
+历-adjective
+each
+皆, 历
+every
+一切, 凡, 凡是, 皆, 谁, 历
+
+压-verb
+press
+按, 压, 敦促, 摁, 催促, 揿
+push
+推, 按, 压, 促进, 促使, 挤
+crush
+粉碎, 压碎, 压, 破碎, 征服, 扫平
+strain
+拉伤, 劳损, 滤, 拉紧, 费力, 压
+depress
+压抑, 压, 戡
+hold down
+压, 阻止, 懿
+control
+控制, 管制, 控, 管, 治理, 压
+restrain
+抑制, 克制, 阻止, 按捺, 抑止, 压
+confine
+局限, 圈, 压, 管制
+bear down
+压
+force down
+压
+keep under control
+压
+压-adverb
+in the first place
+首先, 当初, 压, 压根儿
+
+员-noun
+member
+会员, 成员, 构件, 员, 团员, 分子
+person
+人, 人士, 者, 人身, 员, 身
+
+哈-noun
+laughing
+笑, 笑声, 哈
+laughter
+笑声, 笑, 哈
+yawn
+哈欠, 哈
+pug
+足迹, 哈, 泥料, 狮子鼻
+sycophant
+巴儿狗, 哈, 阿谀者, 拍马屁的人
+toady
+哈, 拍马屁的人
+
+啤-noun
+beer
+啤酒, 啤
+
+器-noun
+implement
+器, 器具, 鋐, 设备, 傢器
+organ
+器官, 机关, 风琴, 器, 官
+ware
+器, 器具
+utensil
+用具, 器具, 器, 具, 器物, 工具
+capacity
+容量, 量, 才能, 潜力, 器
+talent
+天赋, 才能, 天才, 才, 材, 
+
+国-noun
+country
+国家, 国, 乡村, 我国, 国度, 乡下
+state
+态, 州, 国, 状况, 邦, 境界
+nation
+国家, 民族, 国, 国度, 邦
+国-adjective
+national
+国立, 国民, 国, 
+
+坡-noun
+slope
+坡, 坡度, 斜井, 阪, 厂, 倾侧
+hillside
+山坡, 坡, 阪, 他
+bank
+银行, 岸, 岸边, 畔, 渚, 坡
+
+大-adjective
+large
+大, 广大, 量大, 大号, 强大, 丰富
+big
+大, 长, 壮大, 洪, 伟, 硕
+great
+大, 伟大, 鸿, 极大, 非常, 伟
+heavy
+重, 沉重, 大, 笨重, 惨重, 沉
+major
+主要, 重大, 大, 重要, 大型
+bigger
+大, 更大的, 长大的
+wide
+宽, 广泛, 广, 大, 广阔, 阔
+huge
+巨大, 庞大, 大, 极大, 巨, 硕大
+strong
+强大, 强烈, 强有力, 有力, 强壮, 大
+oldest
+大, 最老
+considerable
+可观, 大, 重要, 相当大的, 重大的
+coarse
+粗, 粗糙, 大, 粗俗, 糙, 粗劣
+out
+大, 边上的, 广大的, 极边的, 
+
+实-adjective
+real
+真实, 真正, 实际, 实, 现实, 真
+actual
+实际, 实, 现实, 活生生
+solid
+固体, 固, 坚实, 实心, 实, 扎实
+true
+真正, 真实, 真, 属实, 确实, 实
+实-noun
+fact
+事实, 实, 景况
+reality
+现实, 实际, 实
+
+巨-adjective
+huge
+巨大, 庞大, 大, 极大, 巨, 硕大
+tremendous
+巨大, 很大, 庞大, 巨, 优秀, 庞
+gigantic
+巨大, 庞大, 巨, 庞, 灏
+very large
+巨大, 巨
+
+
+巴-suffix
+-bar
+巴
+巴-verb
+hope
+希望, 望, 期望, 希, 指望, 巴
+wish
+希望, 愿望, 想, 祝, 要, 巴
+be close to
+接近, 濒临, 傍, 附, 切, 巴
+be next to
+挨, 巴
+
+彩-noun
+color
+颜色, 彩色, 色, 色彩, 彩, 肤色
+colour
+颜色, 彩色, 色, 色彩, 彩, 肤色
+prize
+奖, 彩, 奖金, 奖品, 荣获, 锦标
+variety
+品种, 变种, 彩, 名堂
+colored silk
+彩绸, 彩
+blood from a wound
+彩
+variegated silk
+彩
+彩-adjective
+colored
+有色, 彩
+variegated
+斑, 斑驳陆离, 彩, 斓, 綦, 驳
+彩-verb
+applaud
+鼓掌, 叫好, 赞许, 赞
+
+总-adjective
+total
+总, 总额, 共计, 总体, 整个, 全面
+overall
+整体, 总体, 总, 全面, 全盘, 通盘
+general
+一般, 总, 普通, 一般性, 普遍, 通常
+总-adverb
+always
+总是, 一直, 总, 老是, 时刻, 历来
+总-noun
+head
+头, 头部, 总, 长, 首, 主任
+chief
+首席, 总, 长官, 首, 领袖, 头子
+总-verb
+assemble
+组合, 聚集, 集合, 集聚, 组成, 总
+gather
+收集, 聚集, 搜集, 采集, 聚, 总
+
+拿-verb
+take
+采取, 取, 拿, 花费, 搭, 用
+hold
+保持, 持有, 举行, 保留, 抱, 拿
+seize
+抢占, 把握, 夺取, 占领, 捕捉, 拿
+apprehend
+拘押, 拿, 聆, 办案, 竦, 意识
+
+据-preposition
+according to
+根据, 据, 按照, 依照, 依据, 依
+据-noun
+evidence
+证据, 凭证, 表明, 明显, 佐证, 据
+sickness of hand
+据
+certificate
+证书, 凭证, 证明书, 证, 券, 据
+据-adverb
+on the grounds of
+席地, 据
+据-verb
+seize
+抢占, 把握, 夺取, 占领, 捕捉, 据
+act in accordance with
+据
+据-adjective
+fortified
+据
+
+数-noun
+number
+编号, 数, 号, 号码, 数目, 数字
+figure
+数字, 人物, 图形, 身材, 数, 身段
+count
+数, 伯爵, 计算
+calculation
+数, 预算, 打算, 心计, 熟思
+数-adjective
+several
+几个, 数, 几, 好几, 些, 异
+the best
+最好, 数
+the better
+数
+best of all
+数, 最好的
+数-verb
+count
+数, 计数, 计算, 算, 计, 统计
+calculate
+计算, 算, 推算, 计, 计量, 数
+re-count
+数
+数-adverb
+frequently
+经常, 频繁, 常, 常常, 往往, 数
+repeatedly
+反复, 多次, 一再, 屡次, 再三, 数
+
+
+新-adjective
+new
+新, 新兴, 新任, 新颖, 新奇, 耗
+fresh
+新鲜, 鲜, 新, 新兴, 凊, 冒失的
+up-to-date
+跟上时代的, 更新, 现代的, 新
+新-adverb
+newly
+新, 新近
+recently
+最近, 近日, 近来, 新近, 新
+
+昆-noun
+elder brother
+兄, 昆
+brothers
+兄弟, 手足, 哥儿, 昆仲, 哥儿们, 昆
+Kunlun Mountains
+昆, 昆仑山
+昆-adjective
+brilliant
+辉煌, 灿烂, 精彩, 卓
+是-auxiliary verb
+be
+是
+是-verb
+be
+是, 为, 在, 有, 做, 当
+exist
+存在, 有, 存, 生存, 是, 在
+是-adjective
+right
+对, 是, 不错, 然, 当, 有方
+correct
+正确, 正, 端正, 不错, 是, 然
+
+更-adjective
+more
+更, 更加, 更好, 弥
+更-adverb
+more
+更多, 更, 更加, 更好, 还, 外加
+even more
+更, 更多, 更加
+further
+进一步, 更, 且
+still
+还, 依然, 依旧, 尚, 但, 更
+what is more
+更, 更加, 憖
+更-noun
+change
+变动, 变革, 换, 变迁, 更, 辅币
+更-verb
+change
+更改, 变化, 改变, 变更, 更换, 更
+replace
+顶替, 替换, 更换, 取代, 代替, 更
+
+
+最-adjective
+most
+最, 多数, 最为, 最多, 大多, 多半
+bottom
+最, 最后的, 最末的, 最下面的
+最-suffix
+-est
+最
+
+月-noun
+month
+月, 月份
+moon
+月亮, 月, 卫星, 婵娟
+
+未-adverb
+not
+不, 未, 非, 无, 没, 毋
+not yet
+未, 还
+未-verb
+have not
+没有, 未, 没, 未曾, 未尝
+未-abbreviation
+1-3 p.m.
+未
+haven't
+没, 没有, 未, 未曾, 未尝
+
+
+机-noun
+machine
+机, 机器, 机械, 车
+aircraft
+飞机, 机, 飞艇
+plane
+机, 刨, 水平面, 班机, 刨子, 平原
+engine
+引擎, 发动机, 机, 机车
+opportunity
+机会, 机遇, 时机, 机, 会, 隙
+chance
+机会, 偶然, 偶然性, 机, 运气, 运
+key link
+机
+crucial point
+要害, 机
+occasion
+场合, 机会, 时机, 场面, 度, 机
+机-adjective
+organic
+有机, 机, 器质性
+
+标-verb
+mark
+标志, 标, 评分, 标明, 批改
+label
+标, 扣帽子
+tag
+标, 尾随
+bid
+出价, 投标, 标, 邀
+tender
+投标, 标
+put a mark
+标
+标-noun
+sign
+标志, 符号, 迹象, 标记, 牌子, 标
+indication
+表示, 迹象, 指出, 征兆, 迹, 标
+award
+奖, 荣获, 奖金, 奖品, 奖章, 标
+prize
+奖, 彩, 奖金, 奖品, 荣获, 标
+surface
+表面, 面, 地面, 表, 标, 面儿
+symptom
+症状, 征兆, 征候, 标, 征状, 症侯
+topmost branches of a tree
+标
+
+死-verb
+dead
+死, 过世
+die
+死, 冲模, 去世, 亡, 逝世, 身故
+pass out
+昏倒, 死, 逝世, 死亡, 昏过去
+死-adjective
+rigid
+严格, 硬性, 死板, 呆板, 生硬, 死
+inflexible
+呆板, 死板, 刻板, 硬性, 死, 死硬
+implacable
+死
+impassable
+不可逾越, 死
+死-adverb
+deadly
+死亡, 死
+extremely
+非常, 极, 极其, 万分, 很, 死
+
+水-noun
+water
+水, 雨水, 泽, 注入水
+liquid
+液体, 液, 水, 液态水
+river
+河, 河流, 江, 川, 水
+水-adjective
+aquatic
+水上, 水, 水栖
+
+毛泽东-noun
+Mao Zedong
+
+求-verb
+request
+要求, 请求, 请, 求, 询问, 询
+beg
+求, 乞, 行乞, 央求, 要饭, 央
+beseech
+求, 恳求, 央求
+entreat
+恳求, 哀求, 求, 求告, 恳
+
+源-noun
+source
+源, 来源, 源头, 根源, 泉源, 渊源
+origin
+起源, 来源, 原点, 源, 由来, 渊源
+root
+根, 根源, 树根, 词根, 块根, 源
+
+物-noun
+matter
+物, 问题, 事项, 事, 事情, 务
+thing
+东西, 事情, 事, 物, 事物, 事儿
+object
+物件, 物体, 目的, 物, 客体, 宾语
+substance
+物质, 实质, 物, 内容, 体, 质
+content
+内容, 含量, 满足, 物, 事由, 容度
+
+
+珀-noun
+amber
+琥珀色, 琥珀, 珀
+
+理-noun
+reason
+原因, 理由, 理性, 道理, 因, 理
+truth
+真理, 真相, 真实, 实话, 真实性, 理
+logic
+逻辑, 逻, 理, 论理, 伦, 眉目
+texture
+质地, 理
+natural science
+自然科学, 博物, 理
+理-verb
+manage
+管理, 管, 经营, 理, 治理, 应付
+tidy
+收拾, 理, 轶, 齐理
+acknowledge
+承认, 确认, 认知, 答谢, 答理, 理
+put in order
+清理, 轶, 理, 饬, 排列, 收拾
+run
+运行, 执行, 经营, 跑, 办, 理
+
+电-noun
+electricity
+电力, 电
+telegram
+电报, 电, 报
+电-verb
+get an electric shock
+触电, 电
+give an electric shock
+电
+
+疑-verb
+suspect
+怀疑, 疑, 猜想, 猜, 疑心, 犯疑
+doubt
+怀疑, 疑
+misbelieve
+疑
+disbelieve
+怀疑, 疑
+疑-adjective
+doubtful
+疑, 儗, 暧昧, 踯, 怀疑的
+doubting
+疑, 踯, 怀疑的
+uncertain
+不确定, 飘忽, 渺茫, 疑, 易变, 
+
+等-verb
+wait
+等待, 等, 等候, 候, 伺, 俟
+await
+等待, 等候, 待, 期待, 等, 有待
+等-conjunction
+till
+为止, 等
+when
+于, 等
+等-noun
+grade
+年级, 级, 等级, 品位, 级别, 等
+class
+类, 班, 阶级, 班级, 课, 等
+kind
+类, 种类, 样, 种, 性质, 等
+sort
+分类, 类, 种类, 类别, 般, 等
+rank
+秩, 等级, 级, 级别, 阶, 等
+
+
+策-noun
+plan
+计划, 计画, 规划, 打算, 方案, 策
+scheme
+方案, 格式, 图, 阴谋, 策划, 策
+riding crop
+策
+method
+方法, 办法, 模式, 作法, 术, 策
+策-verb
+whip
+鞭, 鞭打, 抽打, 策, 棰, 搒
+
+
+箱-noun
+box
+盒, 箱, 框, 盒子, 箱子, 匣
+container
+容器, 集装箱, 箱, 箱子, 笼, 盂
+crate
+箱, 板条, 板条箱, 条板箱
+chest
+胸部, 胸, 胸膛, 箱, 胸脯, 柜子
+package
+包, 组件, 包裹, 箱
+trunk
+躯干, 主干, 树干, 行李箱, 箱子, 箱
+holder
+所有人, 箱, 把柄, 持有人
+coffer
+保险箱, 围堰, 箱
+envelop
+信封, 封, 笼, 被膜, 箱, 函
+envelope
+信封, 封, 被膜, 机壳, 函, 箱
+sachet
+箱, 箱子
+small package
+箱
+
+线-noun
+line
+线, 线路, 路线, 系, 线条, 排
+wire
+线, 电线, 丝, 导线, 电报, 金属丝
+thread
+线, 绪, 丝, 线索, 细线, 缕
+route
+路线, 路径, 线, 航线, 路, 线路
+string
+串, 弦, 线, 绳子, 绳, 细线
+boundary
+边界, 界限, 界, 边, 境, 线
+filament
+灯丝, 线, 丝状物
+shaped like a line
+线
+
+给-preposition
+to
+于, 至, 给, 向, 对, 往
+for
+对于, 为, 供, 于, 给, 替
+给-verb
+give
+给, 给予, 赐给, 给以, 发给, 授
+grant
+发放, 准许, 发给, 准予, 予, 给
+leave
+离开, 留, 给, 离, 走, 撤离
+provide
+提供, 规定, 供, 供应, 给, 供给
+allow
+允许, 让, 容许, 准许, 许可, 给
+supply
+供应, 提供, 供给, 供, 补给, 给
+furnish
+提供, 供给, 给, 陈设, 输送, 输
+let
+让, 允许, 出租, 给, 放出, 随
+permit
+允许, 许可, 准许, 容许, 许, 给
+present
+介绍, 送, 呈, 表达, 上, 给
+tip
+翻倒, 倾倒, 倒, 翻, 给, 倾卸
+set up
+设置, 成立, 设立, 建立, 设, 给
+vouchsafe
+给
+admit
+承认, 接纳, 录取, 认, 吸收, 给
+lay on
+傅, 给
+fit out
+装备, 给
+suffer
+遭受, 受苦, 挨, 受到, 苦于, 给
+sustain
+支持, 承受, 支撑, 蒙受, 遭受, 给
+accommodate
+容纳, 迁就, 和解, 济, 给
+invest
+投资, 花费, 给
+issue
+发出, 发布, 发, 颁发, 发表, 给
+presume
+假设, 假定, 怙, 逞, 意, 给
+stock
+采购, 放牧, 给
+store
+储存, 储藏, 囤, 储, 存, 给
+给-adverb
+for the benefit of
+给
+
+统-adverb
+collectively
+统
+together
+一起, 共同, 一同, 和, 同, 统
+all
+统统, 通通, 整天, 统, 通共
+统-verb
+unify
+统一, 统
+unite
+团结, 联合, 统一, 联, 合并, 统
+gather
+收集, 聚集, 搜集, 采集, 聚, 统
+统-noun
+series
+系列, 系, 列, 级数, 组, 统
+interconnected system
+统
+统-adjective
+whole
+全, 整个, 整体, 全
+
+耳-noun
+ear
+耳, 耳朵, 穗, 玉米, 棒子, 穟
+auricle
+耳
+耳-adjective
+side
+耳
+flanking
+耳
+
+能-verb
+can
+可以, 可, 能, 能够, 会, 堪
+may
+可能, 可, 可以, 能, 堪
+能-adjective
+able
+能够, 能, 能力, 会, 干, 贤
+capable
+能, 能力, 能干, 得力, 有才干, 成
+能-noun
+energy
+能源, 能量, 能, 精力, 活力, 劲
+ability
+能力, 能, 才能, 本领, 本事, 能耐
+capability
+能力, 性能, 能, 能耐, 能量, 本领
+
+节-noun
+festival
+节, 节日, 节庆, 佳节, 欢宴
+joint
+联合, 关节, 节, 骨节, 臼
+knot
+节, 疙瘩, 扣, 纥, 套, 缔
+burl
+节, 瘤
+holiday
+假日, 节日, 放假, 假, 节, 节庆
+red-letter day
+节
+节-verb
+save
+保存, 节省, 节约, 拯救, 救, 节
+abridge
+删节, 精简, 缩写, 节
+
+若-adverb
+as
+若, 不啻
+like
+不啻, 若
+若-verb
+seem
+似乎, 显得, 仿佛, 似, 觉得, 若
+
+行-noun
+row
+行, 排, 列, 行列, 溜, 瞎闹
+behavior
+行为, 特性, 表现, 行, 做法, 品行
+conduct
+行为, 品行, 传导, 行, 操行, 行事
+behaviour
+行为, 特性, 表现, 行, 做法, 品行
+profession
+职业, 行业, 业, 业务, 行, 工
+行-verb
+do
+做, 办, 进行, 干, 作, 行
+walk
+步行, 走, 走路, 行走, 步, 行
+travel
+游, 行驶, 行, 游历, 遨游, 跋
+go
+去, 前往, 走, 赴, 行, 离去
+行-adjective
+temporary
+临时, 暂时, 一时, 权时, 行, 浮
+competent
+胜任, 能干, 得力, 行
+professional
+行, 专业的
+capable
+能, 能力, 能干, 得力, 有才干, 行
+
+要-verb
+want
+想, 要, 需要, 欲, 愿意, 需
+desire
+欲望, 愿望, 欲, 要, 愒, 选拔
+must
+必须, 务必, 要, 须, 必, 应该
+wish
+希望, 愿望, 想, 祝, 要, 祝愿
+ask
+问, 要求, 询问, 请, 请求, 要
+demand
+需求, 要求, 需要, 索, 索取, 要
+request
+要求, 请求, 请, 求, 询问, 要
+coerce
+胁迫, 迫使, 要挟, 逼迫, 逼, 要
+force
+迫使, 强迫, 强行, 逼, 迫, 要
+ask to do
+要
+要-adjective
+important
+重要, 重大, 重, 要, 要紧, 当紧
+vital
+要, 有活力
+要-conjunction
+if
+如果, 如, 是否, 倘, 假如, 要
+
+该-conjunction
+that
+该, 因为, 就
+该-auxiliary verb
+should
+应该, 应, 应当, 宜, 该, 理应
+ought to
+应该, 应, 应当, 理应, 该, 当
+该-verb
+owe
+欠, 亏欠, 该, 负, 短, 逋
+deserve
+值得, 该, 该得到, 应得
+be one's turn
+该
+该-adverb
+most likely
+八成, 想必, 该
+该-adjective
+above-mentioned
+该, 上面, 上述
+
+象-noun
+elephant
+象, 像
+appearance
+出现, 外形, 外貌, 样子, 模样, 象
+shape
+形状, 形, 外形, 状, 形态, 象
+jumbo
+象, 巨人
+象-verb
+resemble
+类似, 像, 相似, 象, 似, 相像
+seem
+似乎, 显得, 仿佛, 似, 觉得, 象
+take after
+象
+
+
+资-noun
+capital
+资本, 首都, 资, 大写, 本钱, 都城
+resource
+资, 办法, 产
+money
+钱, 货币, 金钱, 款, 钱财, 资
+expense
+费用, 花费, 用度, 资, 用费
+资-verb
+provide
+提供, 规定, 供, 供应, 给, 资
+supply
+供应, 提供, 供给, 供, 补给, 资
+support
+支持, 支援, 帮助, 支撑, 支, 资
+
+踏-verb
+tread
+践踏, 踏, 踩, 踹, 蹈, 步
+step on
+踏, 蹋, 跴, 登
+stamp
+盖章, 踩, 顿足, 打印, 踏, 铭刻
+go to the spot
+踏
+踏-noun
+trample
+踏
+
+踩-verb
+tread
+践踏, 踏, 踩, 踹, 蹈, 步
+trample
+践踏, 踩, 蹂躏, 蹂, 踹, 厹
+stamp
+盖章, 踩, 顿足, 打印, 踏, 铭刻
+step up
+加紧, 踩
+
+送-verb
+send
+发送, 送, 寄, 寄送, 发, 派
+present
+介绍, 送, 呈, 表达, 上, 给
+deliver
+交付, 传递, 传送, 递送, 送, 发表
+carry
+携带, 带, 载, 搬运, 携, 送
+see off
+送, 送行, 送人
+handsel
+送, 赠与, 赠送
+
+遭-verb
+suffer
+遭受, 受苦, 挨, 受到, 苦于, 遭
+sustain
+支持, 承受, 支撑, 蒙受, 遭受, 遭
+encounter
+遭遇, 遭, 领教, 遻
+receive
+接收, 收到, 获得, 接受, 得到, 遭
+befall
+降临, 发生, 遭遇, 临到, 遭, 隮
+fall through
+砸锅, 破灭, 遭, 遭到, 踬, 漂
+fall down
+摔倒, 偃, 塌, 摔, 遇到, 遭
+lose out
+遇到, 遭, 遭到, 遭受, 踬
+miss
+错过, 想念, 思念, 失, 想, 遭
+mucker
+遇到, 遭, 遭到, 遭受
+遭-noun
+calamity
+灾难, 灾害, 殃, 灾, 祸, 遭
+catastrophe
+灾难, 浩劫, 大难, 意外, 遭遇, 遭
+misfortune
+不幸, 祸, 厄运, 变故, 遭遇, 遭
+allotment
+配给, 遭, 遭遇
+ills
+遭遇, 遭
+tribulation
+苦难, 困苦, 遭遇, 悲, 悲楚, 遭
+destiny
+命运, 运, 运气, 遭遇, 气数, 遭
+lot
+命运, 运气, 阄, 遭遇, 命, 遭
+
+配-verb
+match
+相配, 配, 比拟, 匹, 相称, 抗衡
+fit
+适合, 合适, 适应, 合身, 合, 配
+mix
+混合, 混, 搅拌, 拌, 融合, 配
+mate
+配对, 配
+join
+加入, 连接, 参加, 联结, 联合, 配
+make up
+弥补, 组成, 补, 构成, 补偿, 配
+dose
+服药, 配
+
+需-verb
+need
+需要, 需, 要有, 得
+require
+需求, 要求, 需, 要有, 命令, 责
+want
+想, 要, 需要, 欲, 愿意, 需
+需-noun
+necessary
+需, 日用品
+necessity
+必要性, 必然, 必需品, 需
+
+面-noun
+surface
+表面, 面, 地面, 表, 标, 面儿
+face
+脸, 面, 表面, 面孔, 面子, 面貌
+side
+侧, 边, 侧面, 方面, 面, 旁边
+aspect
+方面, 面, 侧面, 局面, 点, 体
+flour
+面粉, 面, 白面
+top
+顶端, 顶部, 顶, 面, 头, 盖
+cover
+盖, 罩, 盖子, 套, 掩护, 面
+flat
+平面, 住宅, 面, 套间, 住所, 平原
+scale
+规模, 尺度, 磅秤, 比例, 比例尺, 面
+range
+范围, 音域, 航程, 值域, 靶场, 面
+outside
+表面, 面, 面子, 面儿
+extent
+范围, 程度, 幅度, 规模, 度, 面
+external
+外面, 表面, 表, 面, 上面
+面-verb
+face
+面对, 面, 面向, 正视, 朝向, 朝
+front
+面, 对付, 对
+expose
+暴露, 露出, 揭, 揭发, 曝露, 面
+面-auxiliary verb
+measure word for flags
+面
+
+饲-verb
+feed
+饲料, 喂, 养活, 喂养, 食, 饲
+raise
+提高, 提出, 养, 募集, 升起, 饲
+rear
+饲养, 豢, 抚养, 养育, 培育, 饲
+bring up
+造就, 培养, 带, 抚养, 养育, 饲
+breed
+培育, 饲养, 孕育, 饲, 孳
+饲-noun
+fodder
+饲料, 草料, 饲, 刍, 刍秣, 粗饲料
+forage
+饲料, 草料, 粮草, 饲
+
+马-noun
+horse
+马, 骑, 驷, 骘
+马-number
+twenty-first
+马
+马-adjective
+twenty-first
+马
+
+只-adverb
+only
+只有, 仅, 只, 唯一, 只是, 仅仅
+exclusively
+只, 仅仅, 独占地
+just
+只是, 刚刚, 只, 刚, 刚好, 才
+merely
+仅仅, 只是, 只, 仅, 只不过, 不过
+exclusive
+只, 仅仅, 独占地
+只-conjunction
+but
+但, 但是, 不过, 而, 可是, 只
+只-adjective
+mere
+只, 不过
+single
+单, 单一, 单个, 单身, 一, 只
+只-noun
+one of a pair
+匹, 只
+
+有-verb
+have
+有, 具有, 拥有, 具备, 有着, 带有
+be
+是, 为, 在, 有, 做, 当
+exist
+存在, 有, 存, 生存, 是, 在
+
+
+高-adjective
+high
+高, 高昂, 昂, 峻, 崇, 亢
+tall
+高, 高大, 颀, 乔, 长的, 箾摻
+expensive
+昂贵, 贵, 高价, 高, 高昂, 昂
+lofty
+高远, 高, 万丈, 高大, 高高, 嵯
+loud
+响, 高声, 高, 扎眼, 洪大, 嘂
+high-priced
+高
+high-up
+高
+高-adverb
+high
+高, 高地, 使劲地, 有力地
+loftily
+傲然, 高
+高-noun
+height
+高度, 身高, 高, 身长, 高低, 高峰
+highness
+高度, 高
+loftiness
+高, 嵌
+高-pronoun
+your
+令, 台, 高, 您的, 你的
+
+毛-noun
+hair
+头发, 发, 毛, 头, 毫, 鬃
+wool
+羊毛, 毛, 毛织品
+feather
+羽毛, 羽, 毛
+毛-adjective
+gross
+毛, 过胖的, 重大的
+rude
+无礼, 粗暴, 不客气, 不逊, 粗, 毛
+careless
+粗心, 马虎, 大意, 漫不经心, 草率, 毛
+rash
+草率, 鲁莽, 造次, 妄, 孟浪, 毛
+
+泽-noun
+benefit
+效益, 利益, 好处, 裨益, 得益, 泽
+lake
+湖, 湖泊, 潢, 泽, 薮
+water
+水, 雨水, 泽, 注入水
+beneficence
+泽
+benefaction
+泽
+benevolence
+仁, 慈悲, 善心, 恩典, 和蔼, 泽
+mere
+泽, 畛
+blessing
+祝福, 福, 祚, 禠, 泽
+loch
+湖, 泽
+lough
+湖, 泽
+water area
+泽
+
+东-noun
+east
+东, 东部
+东-adjective
+eastern
+东
+思-verb
+think
+认为, 想, 思考, 想到, 以为, 思
+consider
+考虑, 认为, 研究, 虑, 思量, 思
+deliberate
+酌量, 商讨, 商榷, 推敲, 商酌, 思
+思-noun
+thought
+思想, 思维, 思, 心思, 念头, 念
+
+想-verb
+want
+想, 要, 需要, 欲, 愿意, 需
+think
+认为, 想, 思考, 想到, 以为, 想起
+suppose
+假设, 想, 假定, 猜想, 假, 假使
+wish
+希望, 愿望, 想, 祝, 要, 祝愿
+believe
+相信, 认为, 信, 以为, 信奉, 想
+miss
+错过, 想念, 思念, 失, 想, 挂念
+feel like doing
+想
+想-auxiliary verb
+would like
+想, 想望
+
+才-adverb
+only
+只有, 仅, 只, 唯一, 只是, 才
+just
+只是, 刚刚, 只, 刚, 刚好, 才
+really
+真, 确实, 实在, 的确, 其实, 才
+actually
+其实, 事实上, 竟, 竟然, 究竟, 才
+才-noun
+talent
+天赋, 才能, 天才, 才, 材, 身手
+endowment
+天赋, 赋, 才
+gift
+礼品, 礼物, 礼, 赋予, 天才, 才
+ability
+能力, 能, 才能, 本领, 本事, 才
+expert
+专家, 专, 行家, 能手, 内行, 才
+才-conjunction
+only if
+才, 除非
+not until
+才
+not unless
+才
+成-verb
+become
+成为, 变成, 变, 成, 为, 做
+complete
+完成, 毕, 完毕, 成, 竣, 蒇
+finish
+完, 结束, 完毕, 了, 终, 成
+turn into
+变成, 成为, 变为, 成
+succeed
+成功, 接替, 得手, 继承, 继, 成
+win
+赢得, 赢, 取胜, 博得, 嬴, 成
+accomplish
+完成, 做到, 达成, 成, 办到, 作为
+成-adjective
+capable
+能, 能力, 能干, 得力, 有才干, 成
+
+强-noun
+strength
+强度, 力量, 实力, 力, 强, 力气
+force
+力, 部队, 力量, 武力, 动力, 强
+power
+功率, 权力, 动力, 力量, 力, 强
+强-adjective
+powerful
+强大, 有力, 强劲, 强, 威武, 劲
+forced
+强
+better
+更好, 较好, 强, 优胜, 优越, 愈
+
+盛-verb
+hold
+保持, 持有, 举行, 保留, 抱, 盛
+carry
+携带, 带, 载, 搬运, 携, 盛
+fill
+填, 满, 满足, 充, 盛, 弥漫
+ladle
+盛
+pervade
+弥漫, 彻, 盛, 渐
+pick up with a utensil
+盛
+盛-adjective
+abundant
+丰富, 充足, 充沛, 丰, 充分, 盛
+prosperous
+繁荣, 兴旺, 旺, 昌盛, 昌, 盛
+flourishing
+芊芊, 蓬勃, 繁华, 旺, 炽盛, 盛
+thriving
+熙, 兴旺, 勃勃, 盛, 昌盛, 昌
+grand
+盛大, 隆重, 宏大, 宏, 雄伟, 盛
+magnificent
+壮丽, 华, 雄伟, 豪华, 灿烂, 盛
+auspicious
+吉祥, 吉利, 祥, 吉庆, 祯, 盛
+
+和-conjunction
+and
+和, 及, 与, 而, 而且, 并
+和-noun
+sum
+总和, 和, 概括, 金额, 总数, 合计
+summation
+和, 合计
+peace
+和平, 和睦, 和, 安, 和约, 安乐
+和-adverb
+together
+一起, 共同, 一同, 和, 同, 共
+和-verb
+mix
+混合, 混, 搅拌, 拌, 融合, 和
+blend
+混合, 交融, 融, 调配, 和, 搅和
+draw
+绘制, 画, 绘图, 平, 吸引, 和
+tie
+绑, 扎, 系, 捆, 联结, 和
+chime in
+帮腔, 和
+compose a poem in reply
+和
+join in the singing
+和
+write a poem in reply
+和
+和-adjective
+harmonious
+和谐, 和睦, 谐, 调和, 均衡, 和
+kind
+仁慈, 亲切, 厚道, 和蔼, 和
+
+公-adjective
+public
+公共, 公众, 公开, 公, 国有, 国立
+fair
+公平, 公正, 公, 持平, 允, 均等
+just
+公正, 公平, 义, 直, 公, 允
+common
+共同, 常见, 普通, 共, 一般, 公
+metric
+公, 测量的, 韵律的
+general
+一般, 总, 普通, 一般性, 普遍, 公
+honorable
+体面, 光彩, 诚实, 义, 懿, 公
+state-owned
+公, 国有
+公-noun
+male
+男性, 男, 公, 男子, 男人, 牡
+duke
+公爵, 公
+public affairs
+公务, 公
+husband's father
+公, 公公
+father-in-law
+公, 公公, 翁, 岳父, 嫜
+公-adverb
+generally
+通常, 公
+公-verb
+make public
+公开, 公布, 公, 披露, 示众
+
+正-adjective
+positive
+正, 积极, 正面, 阳, 肯定的
+correct
+正确, 正, 端正, 不错, 是, 然
+main
+主要, 主, 最主要, 主干, 正, 优势
+正-adverb
+just
+只是, 刚刚, 只, 刚, 刚好, 正
+straight
+直, 直接, 直行, 正, 直接地
+upright
+正, 婞
+正-verb
+correct
+纠正, 更正, 修正, 改正, 订正, 正
+正-noun
+Chinese first month of year
+正
+
+家-noun
+home
+家, 家园, 故乡, 乡土, 斋
+family
+家庭, 家族, 家人, 家, 户, 科
+household
+家庭, 户, 家, 家人, 家族
+specialist
+专家, 专门, 家, 精通
+school
+学校, 学院, 校, 学, 派, 家
+school of thought
+学派, 派, 家
+家-adjective
+domesticated
+家
+家-suffix
+-er
+家, 者
+-ian
+家
+-ist
+家, 者
+
+
+学-verb
+learn
+学, 学习, 学会, 得知, 记住, 知悉
+study
+研究, 学习, 学, 读书, 考察, 读
+imitate
+模仿, 仿, 模拟, 仿效, 仿照, 学
+学-noun
+school
+学校, 学院, 校, 学, 派, 学派
+learning
+学习, 学, 学问, 学术, 学业, 读书
+knowledge
+知识, 认识, 知道, 识, 学问, 学
+college
+学院, 院, 学
+subject of study
+学
+branch of learning
+学科, 学
+学-suffix
+-logy
+学
+
+习-verb
+study
+研究, 学习, 学, 读书, 考察, 习
+practice
+练习, 实践, 练, 实习, 推行, 习
+exercise
+行使, 练习, 锻炼, 活动, 训练, 习
+practise
+练习, 实践, 练, 实习, 推行, 习
+be used to
+习惯, 惯, 习, 习以为常
+get accustomed to
+习
+review
+回顾, 检阅, 评, 复习, 复审, 习
+习-noun
+practice
+练习, 做法, 练, 实际, 作法, 习
+habit
+习惯, 习, 嗜好, 癖
+custom
+习俗, 习惯, 风俗, 惯例, 顾客, 习
+
+声-noun
+sound
+声音, 音响, 声, 音, 响, 声响
+voice
+语音, 声音, 声, 呼声, 发言权, 嗓子
+noise
+噪声, 噪音, 噪, 声, 音, 响声
+tone
+音, 音调, 色调, 调, 声调, 声
+reputation
+声誉, 名誉, 名声, 誉, 名, 声
+
+响-verb
+ring
+响, 包围, 听起来, 鸣, 摇
+sound
+听起来, 音响, 响, 鸣, 籁, 创立
+noise
+吵, 响, 闹, 嚷, 哗, 唎
+make a sound
+响, 则声, 做声
+响-noun
+sound
+声音, 音响, 声, 音, 响, 声响
+noise
+噪声, 噪音, 噪, 声, 音, 响
+echo
+回声, 回音, 回响, 反响, 响, 应
+响-adjective
+loud
+响, 高声, 高, 扎眼, 洪大, 嘂
+noisy
+嘈杂, 吵, 吵闹, 闹, 闹哄哄, 响
+响-auxiliary verb
+measure word for sounds
+响
+
+地-noun
+ground
+地面, 地, 地基, 理由, 底, 地皮
+land
+土地, 地, 国土, 陆地, 陆
+earth
+地, 土, 泥土, 球, 尘
+place
+位置, 地方, 地点, 场所, 处, 地
+field
+领域, 场, 田, 野外, 方面, 地
+地-adjective
+topographic
+地
+topographical
+地
+地-particle
+adverbial particle
+地
+
+关-verb
+shut
+关闭, 关, 闭, 合, 扃, 阏
+close
+关闭, 临近, 关, 合, 封闭, 闭
+turn off
+关, 灭, 拐弯, 岔
+cut
+切, 砍, 截, 斩, 减, 关
+pass
+通过, 传, 经过, 过, 关, 递
+关-noun
+barrier
+屏障, 障碍, 障, 壁垒, 障碍物, 关
+关-adjective
+sticking
+关
+
+心-noun
+heart
+心, 心脏, 中心, 内心, 心灵, 胸怀
+bosom
+怀, 胸, 内心, 心, 内部, 里面
+center
+中心, 中央, 中间, 心, 中, 正中
+core
+核心, 芯, 铁心, 中心, 心, 磁心
+centre
+中心, 中央, 中间, 心, 中, 正中
+feeling
+感觉, 情, 情感, 感情, 情绪, 心
+thinking
+思维, 思想, 思路, 思索, 心, 思绪
+intelligence
+情报, 智力, 灵, 合理, 窍, 心
+
+她-pronoun
+she
+她, 伊, 其
+
+用-noun
+use
+用途, 用, 采用, 运用, 采取, 用场
+usefulness
+用处, 效用, 用, 效能
+need
+需要, 必须, 用, 意, 意愿
+expenses
+开支, 支出, 费, 用
+outlay
+支出, 经费, 费用, 用度, 用
+用-verb
+use
+使用, 利用, 用, 采用, 运用, 应用
+apply
+应用, 申请, 运用, 敷, 采用, 用
+take
+采取, 取, 拿, 花费, 搭, 用
+eat
+吃, 吃饭, 食, 餐, 啖, 用
+
+诚-adjective
+sincere
+真诚, 诚挚, 诚, 诚恳, 真挚, 至诚
+honest
+诚实, 诚, 老实, 正直, 坦白, 淳朴
+诚-adverb
+indeed
+确实, 的确, 确, 真, 果真, 诚
+really
+真, 确实, 实在, 的确, 其实, 诚
+actually
+其实, 事实上, 竟, 竟然, 究竟, 诚
+诚-noun
+frankness
+诚意, 诚, 诚心, 爽快
+
+
+善-adjective
+good
+好, 良好, 佳, 优良, 善, 良
+kind
+仁慈, 亲切, 厚道, 和蔼, 和善, 善
+friendly
+友好, 友, 和善, 善, 和睦, 和蔼
+virtuous
+贤, 善, 腆, 义, 懿, 合乎道德的
+satisfactory
+完满, 喜人, 善, 满意的
+善-verb
+be good at
+善于, 擅长, 善, 擅, 健, 长
+be apt to
+善, 易于, 爱
+be expert in
+擅长, 擅, 善
+make a success
+善
+be adept in
+善于, 善
+
+
+意-noun
+meaning
+含义, 意义, 意思, 意, 表示, 意味
+significance
+意义, 重要性, 意, 意味, 谛, 显著性
+intention
+意向, 意图, 打算, 用意, 意, 用心
+intent
+意图, 意向, 目的, 意, 目标
+purpose
+目的, 宗旨, 旨, 用意, 意, 意向
+idea
+理念, 想法, 思想, 主意, 概念, 意
+thought
+思想, 思维, 思, 心思, 念头, 意
+sense
+感, 意义, 感觉, 感应, 道理, 意
+wish
+心愿, 意愿, 愿, 欲, 意, 志愿
+submission
+服从, 归顺, 意, 属, 应用
+implication
+意义, 含义, 意味, 意, 弦外之音, 瓜葛
+desire
+渴望, 欲, 意愿, 愿, 意, 想望
+suggestion
+建议, 意见, 提议, 暗示, 意, 方案
+proposition
+主张, 议案, 意, 意味
+proposal
+建议, 提案, 提议, 议案, 方案, 意
+fancy
+幻想, 花俏, 意, 意愿
+connotation
+意义, 意思, 意味, 意
+aspiration
+心愿, 抱负, 意愿, 志向, 志, 意
+inspiration
+灵感, 鼓舞, 意, 意见, 鼓励者
+plan
+计划, 计画, 规划, 打算, 方案, 意
+hint
+示意, 意, 廋词
+intimation
+暗示, 暗语, 意
+importance
+重要性, 重视, 意
+offer
+意, 议案
+longing
+渴望, 想望, 切望, 渴想, 意愿, 意
+yearning
+怀念, 意愿, 意
+clue
+线索, 绪, 罪证, 头脑, 意
+craving
+瘾, 意, 想望, 意愿
+indication
+表示, 迹象, 指出, 征兆, 迹, 意
+consequence
+后果, 结果, 意义, 意, 意味, 续编
+evocation
+招魂, 唤起, 唤出, 意
+need
+需要, 必须, 用, 意, 意愿
+want
+需要, 意愿, 缺乏, 意
+mention
+发言, 意, 挂齿
+thirst
+口渴, 意
+target
+目标, 靶, 指标, 目的, 靶子, 意
+tip-off
+暗示, 暗语, 意
+意-verb
+advise
+劝, 劝告, 忠告, 劝导, 规劝, 意
+suggest
+建议, 暗示, 提议, 意味着, 意, 促成
+propose
+建议, 提出, 提议, 求婚, 倡议, 意
+imply
+意味着, 暗示, 意味, 意, 隐射, 暗含着
+consider
+考虑, 认为, 研究, 虑, 思量, 意
+believe
+相信, 认为, 信, 以为, 信奉, 意
+understand
+了解, 理解, 明白, 懂, 懂得, 意
+presume
+假设, 假定, 怙, 逞, 意, 给
+assume
+承担, 假设, 假定, 设想, 担当, 意
+hint
+暗示, 隐射, 点, 意
+advocate
+主张, 提倡, 主, 崇尚, 倡, 意
+recommend
+推荐, 建议, 荐, 提倡, 荐举, 意
+guess
+猜测, 猜, 猜想, 揣测, 猜谜, 意
+think
+认为, 想, 思考, 想到, 以为, 意
+suppose
+假设, 想, 假定, 猜想, 假, 意
+imagine
+想像, 设想, 想到, 想得到, 意想, 意
+expect
+预期, 期望, 期待, 希望, 想到, 意
+reason
+合理, 意, 臆断
+reflect
+反映, 体现, 思考, 映, 辉映, 意
+anticipate
+预料, 料, 预知, 意料, 抢先, 意
+predict
+预测, 预计, 预言, 预报, 意料, 意
+await
+等待, 等候, 待, 期待, 等, 意
+wait
+等待, 等, 等候, 候, 伺, 意
+deduce
+推断, 推, 减掉, 论断, 意, 臆测
+foresee
+预料, 预知, 料到, 逆料, 预卜, 意
+look ahead
+展望, 意, 意料
+look forward to
+期待, 期盼, 盼望, 憧憬, 向往, 意
+be hopeful
+意料, 意
+
+对-preposition
+to
+于, 至, 给, 向, 对, 往
+at
+在, 于, 当, 对, 靠近, 靠
+对-noun
+pair
+对, 双, 副, 偶, 耦, 俪
+correct answer
+对
+对-adjective
+right
+对, 是, 不错, 然, 当, 有方
+receiving
+对
+对-particle
+yes
+对, 唯, 诺
+对-verb
+be opposite
+对
+oppose
+反对, 相对, 对, 抗拒, 作对, 抵抗
+answer
+回答, 答, 答复, 应答, 作答, 对
+reply
+答覆, 回复, 答复, 答辩, 应答, 对
+face
+面对, 面, 面向, 正视, 朝向, 对
+front
+面, 对付, 对
+对-adverb
+orderly
+秩序, 整, 正确, 不错, 对
+
+
+待-verb
+stay
+住宿, 留, 逗留, 留下, 呆, 待
+bide
+居住, 待, 住
+treat
+治疗, 对待, 处理, 看待, 医治, 待
+await
+等待, 等候, 待, 期待, 等, 有待
+deal with
+处理, 应付, 处置, 办理, 周旋, 待
+entertain
+招待, 宴请, 请客, 待客, 怀抱, 待
+
+起-verb
+start
+开始, 启动, 起动, 始, 开头, 起
+begin
+开始, 开头, 始, 起, 开工, 开幕
+rise
+上升, 上涨, 升, 涨, 升起, 起
+get up
+起床, 起身, 起, 兴, 浆
+set up
+设置, 成立, 设立, 建立, 设, 起
+raise
+提高, 提出, 养, 募集, 升起, 起
+grow
+增长, 生长, 发展, 长, 壮大, 起
+unship
+起
+build
+建立, 建设, 建, 建造, 兴建, 起
+extract
+摘录, 提取, 抽出, 开采, 提, 起
+pull
+拉, 拔, 扳, 扯, 挽, 起
+work out
+制订, 编制, 制, 编造, 起, 绎
+
+都-adjective
+all
+所有, 都, 均, 皆, 凡, 凡是
+both
+都, 两, 二者, 俩
+都-noun
+capital
+资本, 首都, 资, 大写, 本钱, 都
+metropolis
+都会, 大都会, 都市, 大城市, 都
+big city
+大城市, 都
+都-adverb
+entirely
+完全, 都, 统统, 悉, 通通, 殚
+
+比-noun
+ratio
+比率, 比, 率, 比值
+比-verb
+compare
+比较, 比, 相比, 较, 比拟, 形
+contrast
+比较, 比
+compete
+竞争, 竞, 赛, 对抗, 比
+emulate
+仿真, 看齐, 竞争, 比
+比-particle
+particle used for comparison
+比
+
+晚-noun
+night
+晚, 夜晚, 夜, 宵, 宿, 黑暗
+evening
+晚间, 夜, 晚, 黄昏, 夕, 暮
+晚-adjective
+late
+晚, 迟, 深, 阑, 晏, 迟慢
+junior
+初级, 初, 晚
+
+餐-noun
+meal
+膳食, 餐, 饭, 粗粉, 膳, 食
+food
+食品, 食物, 粮食, 食, 餐, 粮
+餐-verb
+eat
+吃, 吃饭, 食, 餐, 啖, 喝汤
+
+吃-verb
+eat
+吃, 吃饭, 食, 餐, 啖, 喝汤
+exhaust
+排气, 耗尽, 排出, 尽, 竭, 吃
+suffer
+遭受, 受苦, 挨, 受到, 苦于, 吃
+bear
+承担, 承受, 负, 忍受, 结, 吃
+live on
+吃
+live off
+吃
+fare
+吃, 旅行, 居住, 住
+stammer
+口吃, 吃
+incur
+招致, 蒙受, 致, 招惹, 吃, 招引
+receive
+接收, 收到, 获得, 接受, 得到, 吃
+soak up
+吃
+absorb
+吸收, 吸, 吸取, 摄取, 摄, 吃
+be a strain on
+吃
+吃-noun
+eating
+吃, 食物
+
+什-adjective
+assorted
+什, 分类的
+miscellaneous
+杂, 繁杂, 冗杂, 什, 遝, 杂项
+什-number
+tenth
+第十, 什
+
+么-noun
+one on dice
+幺
+么-adjective
+small
+小, 少, 细小, 微小, 小号, 薄
+
+古-adjective
+ancient
+古, 古老, 久远, 过去的, 过时的
+old
+旧, 老, 古老, 古, 破旧, 苍老
+
+往-preposition
+to
+于, 至, 给, 向, 对, 往
+towards
+向, 往, 朝, 对于, 望, 冲
+toward
+往, 对于, 对着
+往-adjective
+past
+往, 旧, 过去的
+previous
+前, 以前, 上, 过去, 往, 过急的
+bound
+有义务, 往, 必然的, 一定的
+往-adverb
+fro
+往, 往回
+往-verb
+wend
+往
+go in a direction
+往
+
+今-pronoun
+this
+本, 这, 此, 这个, 这项, 今
+今-adverb
+today
+今天, 今日, 今, 今儿, 这天
+now
+现在, 现时, 如今, 今, 此时, 今天
+今-adjective
+current
+当前, 现时, 现在, 现, 本届, 今
+present
+现, 当前, 现在, 当今, 今, 这次
+modern
+现代, 摩登, 现今, 现在, 今, 当前
+
+多-prefix
+multi-
+多, 多种
+多-adjective
+many
+许多, 多, 好多, 大多, 众, 诸
+much
+许多, 多, 济, 濔
+numerous
+众多, 大量, 多, 众, 丰富, 繁
+odd
+奇, 奇怪, 多, 单, 余, 怪
+excessive
+过多, 多, 滥, 淫, 奢, 亢
+
+少-adverb
+less
+少, 较少, 更少
+little
+少, 些少
+few
+少数, 少
+少-adjective
+small
+小, 少, 细小, 微小, 小号, 薄
+young
+年轻, 年青, 小, 少年, 幼, 少
+少-verb
+lack
+缺乏, 缺少, 缺, 少, 欠, 差
+lose
+失去, 输, 丢失, 丧失, 损失, 少
+be missing
+失踪, 少, 不见了, 落, 走失
+be short
+少
+少-noun
+son of a rich family
+少
+
+功-noun
+merit
+优点, 功, 长处, 绩, 勋, 体面
+meritorious service
+功, 勋
+achievement
+成就, 成果, 成绩, 功, 发迹
+accomplishment
+成就, 素养, 修养, 功, 结束, 发迹
+result
+结果, 成果, 成绩, 效果, 成效, 功
+exploit
+伟业, 功
+service
+服务, 送达, 服役, 劳务, 役, 功
+
+者-noun
+person
+人, 人士, 者, 人身, 员, 身
+者-suffix
+-er
+家, 者
+-ist
+家, 者
+-or
+者
+
+被-noun
+quilt
+被子, 被, 被套, 棉被, 衾, 抽
+blanket
+毯, 毯子, 被, 被子
+被-verb
+has been
+have been
+cover
+盖, 覆盖, 罩, 覆, 掩盖, 被
+wear
+穿, 戴, 佩带, 磨, 带, 被
+
+们-pronoun
+they
+
+赞-verb
+praise
+赞美, 称赞, 赞扬, 表扬, 赞, 颂
+commend
+表彰, 表扬, 称赞, 赞许, 赞, 嘉奖
+approve
+批准, 同意, 认可, 赞成, 赞同, 赞
+applaud
+鼓掌, 叫好, 赞许, 赞同, 赞成, 赞
+eulogize
+讴歌, 赞美, 称颂, 赞, 颂, 赞扬
+laud
+赞美, 赞扬, 赞赏, 揄扬, 赞, 褒扬
+belaud
+赞扬, 赞美, 赞, 赞赏
+incense
+揄扬, 赞, 赞美, 赞赏, 赞扬
+panegyrize
+赞美, 褒扬, 揄扬, 赞, 赞赏, 赞扬
+rhapsodize
+揄扬, 赞美, 赞, 赞赏, 赞扬, 作狂想曲
+smile on
+赞许, 赞, 赞成, 赞同
+smile upon
+赞许, 赞, 赞成, 赞同
+welcome
+欢迎, 迎接, 迎, 赞同, 赞成, 赞
+赞-noun
+commendation
+赞许, 赞, 称许, 赞成, 赞同
+approval
+承认, 赞同, 赞成, 赞许, 赞
+accolade
+赞许, 赞, 赞同, 赞成, 连谱号
+glorification
+赞美, 赞扬, 颂, 赞, 赞赏, 誉
+laud
+赞美, 赞扬, 赞赏, 赞
+emblazonment
+誉, 赞, 赞美, 赞赏, 赞扬
+approbation
+赞许, 承认, 赞同, 赞成, 赞
+emblazonry
+誉, 赞, 赞赏
+laudation
+赞美, 颂, 誉, 赞, 赞赏, 赞扬
+magnification
+放大, 放大率, 揄扬, 赞, 赞美, 赞赏
+
+赏-noun
+reward
+报酬, 赏, 赏赐, 奖, 奖金, 奖品
+award
+奖, 荣获, 奖金, 奖品, 奖章, 赏
+赏-verb
+appreciate
+欣赏, 感激, 升值, 鉴赏, 体味, 赏
+award
+奖, 奖励, 授予, 颁发, 授, 赏
+bestow a reward
+赏赐, 赏
+give
+给, 给予, 赐给, 给以, 发给, 赏
+grant a reward
+赏赐, 赏
+recognize
+认识, 承认, 认, 认清, 辨认, 赏
+
+从即日-phrase
+from now
+
+烟草-noun
+tobacco
+烟草, 烟, 抽烟, 菸
+pipe tobacco
+烟草, 斗烟丝
+
+提高-verb
+improve
+提高, 改善, 改进, 健全, 改良, 进步
+increase
+提高, 增长, 增, 增强, 加, 加强
+enhance
+提高, 增进
+raise
+提高, 提出, 养, 募集, 升起, 抬高
+heighten
+提高, 增高
+提高-noun
+elevation
+海拔, 标高, 提高, 高地
+exaltation
+提高, 升高, 喜悦
+
+每年-noun
+each year
+每年
+每年-adverb
+per year
+每年
+every year
+每年, 念念, 每年一度
+yearly
+每年, 全年
+
+估计-verb
+estimate
+估计, 预计, 估, 估量, 量, 测度
+reckon
+估计, 算, 推算, 推想, 筹算, 合算
+gauge
+测量, 估计
+appraise
+评价, 鉴定, 评, 估价, 褒贬, 估计
+
+
+带来-verb
+bring
+带来, 产生, 促使, 拿来, 输送, 停下
+
+额外-adjective
+additional
+额外, 另外, 补充, 外加, 附带, 异
+extra
+额外, 外加, 余, 异, 附加的
+added
+额外, 异, 附加的, 更多的, 合计的
+额外-noun
+supernumerary
+额外
+superfluity
+额外
+
+税收-noun
+tax
+征税, 税, 税收, 税额, 赋税
+taxation
+税收, 征税, 赋税, 赋
+duty
+税, 责任, 义务, 任务, 关税, 税收
+taxing
+征税, 税收, 赋税, 赋
+dues
+税, 税收
+customs
+海关, 关税, 税, 税收
+
+酒精-noun
+alcohol
+酒精, 醇, 酒
+
+带来-verb
+bring
+带来, 产生, 促使, 拿来, 输送, 停下
+
+额外-adjective
+additional
+额外, 另外, 补充, 外加, 附带, 异
+extra
+额外, 外加, 余, 异, 附加的
+added
+额外, 异, 附加的, 更多的, 合计的
+额外-noun
+supernumerary
+额外
+superfluity
+额外
+
+税收-noun
+tax
+征税, 税, 税收, 税额, 赋税
+taxation
+税收, 征税, 赋税, 赋
+duty
+税, 责任, 义务, 任务, 关税, 税收
+taxing
+征税, 税收, 赋税, 赋
+dues
+税, 税收
+customs
+海关, 关税, 税, 税收
+
+政府-noun
+government
+政府, 内阁, 辖
+
+正在-conjunction
+while
+而, 却, 当时, 正在, 际, 斯
+正在-preposition
+in the process of
+正在, 中
+
+开始-verb
+start
+开始, 启动, 起动, 始, 开头, 开工
+begin
+开始, 开头, 始, 起, 开工, 开幕
+commence
+开始, 着手, 发源
+initiate
+发起, 开始, 发动, 倡导, 开创, 首创
+start off
+开始, 出发
+开始-adjective
+beginning
+开始
+starting
+开始
+initial
+初始, 初步, 最初, 开始
+开始-noun
+beginning
+开始, 开头, 初, 初期, 开端, 始
+first
+开始, 开端, 起点, 一日
+starting
+开始
+gambit
+话题, 开始
+
+透明-adjective
+transparent
+透明, 透亮, 清澈, 澄清, 澄, 滢
+open
+公开, 开阔, 敞, 通, 
+
+革命-noun
+revolution
+革命, 公转
+
+
+下午-noun
+afternoon
+下午, 昃, 后半天
+下午-abbreviation
+p.m.
+下午
+
+
+妈妈-noun
+mom
+妈妈, 妈, 妈咪
+mama
+妈妈, 妈, 妈咪, 嬷, 性感的成熟女人
+momma
+妈妈, 妈, 妈咪
+mamma
+妈妈, 乳房, 妈, 嬷, 妈咪, 性感的成熟女
+
+公园-noun
+park
+公园, 园林, 苑, 囿
+public park
+公园
+
+散步-verb
+take a walk
+散步, 溜达
+go for a walk
+散步, 溜达
+
+奥林匹克-adjective
+Olympic
+奥林匹克
+
+运动会-noun
+games
+sports competition
+运动会, 体育比赛
+
+举办-verb
+hold
+保持, 持有, 举行, 保留, 抱, 举办
+conduct
+进行, 举办, 办理, 导, 引导, 指挥
+run
+运行, 执行, 经营, 跑, 办, 举办
+
+
+会期-noun
+meeting day
+会期
+session
+会期, 学级
+
+超过-verb
+exceed
+超过, 超越, 超出, 超, 逾, 优于
+surpass
+超过, 超越, 优于, 超, 赛过, 越
+outstrip
+超过, 赶过
+outpace
+超过, 赶过
+outdistance
+超过, 赶过, 抛在后头
+outride
+超过, 赶过
+超过-noun
+overtake
+超过, 赶过
+
+油条-noun
+Chinese donuts
+Fritters
+
+简单-adjective
+simple
+简单, 简易, 简, 单纯, 朴素, 朴实
+uncomplicated
+简单
+casual
+随便, 漫不经心, 简单, 马虎, 马马虎虎, 轻淡
+common
+共同, 常见, 普通, 共, 一般, 简单
+简单-noun
+simplicity
+简单, 简朴, 稚气
+simpleness
+简单
+briefness
+简单, 短促
+
+美好-adjective
+fine
+精细, 精, 细, 优良, 精美, 美好
+happy
+快乐, 高兴, 幸福, 欢乐, 愉快, 美好
+glorious
+辉煌, 美好, 壮丽, 耀, 锦绣, 灿
+
+昆明-noun
+Kunming
+昆明
+
+动物园-noun
+zoo
+动物园
+
+饲养员-noun
+breeder
+groom
+马夫, 倌, 饲养员
+stableman
+马夫, 饲养员
+cattle farm worker
+饲养员
+farmyard worker
+饲养员
+
+大象-noun
+elephants
+
+踩踏-noun
+stampede
+
+死亡-noun
+death
+死亡, 终, 诛, 长眠, 死命
+decease
+死亡
+mortality
+死亡, 死亡数目
+doom
+厄运, 死命, 死亡, 运, 殒命, 运气
+死亡-adverb
+deadly
+死亡, 死
+死亡-verb
+decease
+死亡, 终
+pass out
+昏倒, 死, 逝世, 死亡, 昏过去
+
+该机-phrase
+the aircraft
+
+配件-noun
+fitting
+配件, 试
+replacement
+复位, 配件, 替身, 替补员, 条施
+
+充电器-noun
+charger
+充电器, 袭击者, 弹夹
+replenisher
+充电器
+
+耳机-noun
+headset
+耳机, 听筒, 头戴耳机, 头戴受话器
+headphone
+耳机, 听筒, 头戴耳机, 头戴受话器
+earphone
+耳机, 听筒
+earpiece
+听筒, 耳机, 耳垂
+
+数据线-noun
+data line
+
+标配-phrase
+standard
+
+中国-noun
+China
+中国, 华, 中华
+
+不实行-phrase
+not practiced
+
+节能-phrase
+saving
+
+政策-noun
+policy
+政策, 方针, 学说, 保险单, 筴
+
+巨大-adjective
+huge
+巨大, 庞大, 大, 极大, 巨, 硕大
+immense
+巨大, 庞大, 广大, 庞, 硕大, 澔
+enormous
+巨大, 庞大, 极大, 硕大, 庞, 硕大无朋
+tremendous
+巨大, 很大, 庞大, 巨, 优秀, 庞
+gigantic
+巨大, 庞大, 巨, 庞, 灏
+very large
+巨大, 巨
+
+能源-noun
+energy
+能源, 能量, 能, 精力, 活力, 劲
+power source
+电源, 能源
+
+需求-noun
+demand
+需求, 要求, 需要, 查询
+requirement
+需求, 需要, 条件, 必要条件
+demands
+需求, 需要
+需求-verb
+demand
+需求, 要求, 需要, 索, 索取, 要
+require
+需求, 要求, 需, 要有, 命令, 责
+
+水资源-noun
+water
+
+面临-verb
+be confronted with
+面临
+be faced
+面临, 当前
+
+压力-noun
+pressure
+压力, 压强, 应力, 迮, 镇, 应激状态
+overwhelming force
+压力
+
+华人-noun
+Chinese
+中文, 汉语, 华人, 华语, 汉
+ethnic Chinese
+华人, 华裔
+Chinaman
+华人
+
+农历-noun
+lunar calendar
+农历, 阴历, 夏历, 旧历, 太阴历
+traditional Chinese calendar
+农历, 夏历
+
+
+新年-noun
+New Year
+新年, 年
+
+新加坡-noun
+Singapore
+新加坡
+
+
+主要-adjective
+main
+主要, 主, 最主要, 主干, 正, 优势
+principal
+主要, 首要的
+primary
+主要, 初级, 主, 原, 第一, 最初
+chief
+首席, 主要, 首要的
+major
+主要, 重大, 大, 重要, 大型
+
+精彩-adjective
+wonderful
+精彩, 美妙, 奇妙, 妙, 优秀, 雄伟
+brilliant
+辉煌, 灿烂, 精彩, 卓越, 杰出, 优秀
+excellent
+优, 优秀, 优良, 卓越, 精彩, 佳
+splendid
+锦绣, 灿烂, 辉煌, 精彩, 优秀, 漂亮
+amazing
+惊人, 了不起, 精彩, 异乎寻常, 旖旎, 荧
+astonishing
+惊人, 意想不到, 可惊, 意外, 精彩, 异
+remarkable
+卓越, 出色, 杰出, 精彩, 异常, 异乎寻常
+bright
+光明, 辉, 光亮, 明, 聪明, 精彩
+sparkling
+精彩, 皦, 晶, 发泡的
+glittering
+晶, 精彩, 荧
+
+节日-noun
+festival
+节, 节日, 节庆, 佳节, 欢宴
+holiday
+假日, 节日, 放假, 假, 节, 节庆
+gala
+节日
+
+之一
+one
+一, 之一, 壹
+之一-noun
+one of
+之一
+one out of a multitude
+之一
+
+
+未来-noun
+future
+未来, 将来, 前途, 前程
+tomorrow
+明天, 明日, 未来
+未来-adjective
+next
+下, 未来, 下面, 明, 翌, 下边
+coming
+未来, 来
+approaching
+未来, 垂
+
+美国-noun
+United States
+美国
+America
+美国, 美洲, 新大陆
+United States of America
+美国
+美国-abbreviation
+USA
+美国, 美
+US
+美, 美国
+
+总统-noun
+president
+主席, 总统, 校长, 议长, 总会会长
+总统-adjective
+presidential
+总统, 首长的
+presidial
+总统, 社长的, 首长的
+
+奥巴马-noun
+Obama
+
+需要-noun
+need
+需要, 必须, 用, 意, 意愿
+want
+需要, 意愿, 缺乏, 意
+demand
+需求, 要求, 需要, 查询
+requirement
+需求, 需要, 条件, 必要条件
+demands
+需求, 需要
+需要-verb
+need
+需要, 需, 要有, 得
+demand
+需求, 要求, 需要, 索, 索取, 要
+want
+想, 要, 需要, 欲, 愿意, 需
+需要-adjective
+required
+需要, 必要
+
+送给-verb
+sent
+
+加拿大-noun
+Canada
+加拿大
+
+
+总理-noun
+prime minister
+首相, 总理
+premier
+总理, 主席
+
+
+哈珀-noun
+Harper
+
+啤酒-noun
+beer
+啤酒, 啤
+brewage
+酿造, 啤酒
+
+高举-verb
+hold high
+高举, 昂
+hold aloft
+高举
+
+思想-noun
+thinking
+思维, 思想, 思路, 思索, 心, 思绪
+thought
+思想, 思维, 思, 心思, 念头, 念
+idea
+理念, 想法, 思想, 主意, 概念, 构想
+ideology
+思想, 思想体系, 思想意识, 空论, 思想主义
+cogitation
+思维, 熟思, 思想
+思想-adjective
+ideological
+思想, 空论的
+
+
+成为-verb
+become
+成为, 变成, 变, 成, 为, 做
+turn into
+变成, 成为, 变为, 成
+
+强盛-adjective
+powerful and prosperous
+强盛
+
+公正-adjective
+fair
+公平, 公正, 公, 持平, 允, 均等
+just
+公正, 公平, 义, 直, 公, 允
+equitable
+公平, 公正, 合理的
+impartial
+公正, 不偏不倚, 公平, 均等, 义, 合理的
+
+国家-noun
+country
+国家, 国, 乡村, 我国, 国度, 乡下
+nation
+国家, 民族, 国, 国度, 邦
+commonwealth
+联邦, 邦, 国家, 联盟, 人民, 禔
+
+学习-noun
+learning
+学习, 学, 学问, 学术, 学业, 读书
+学习-verb
+learn
+学, 学习, 学会, 得知, 记住, 知悉
+study
+研究, 学习, 学, 读书, 考察, 读
+be taught
+学习, 学会
+be trained
+学习, 学会
+gain knowledge
+学习
+prep
+学习
+cram
+填满, 拥挤, 学习, 揣, 死记
+become skilled at
+学会, 学习
+revise
+修改, 修订, 修正, 调整, 订, 学习
+
+不声不响-adverb
+quietly
+
+关心-verb
+care
+关心, 关怀, 在乎, 在意, 注意, 看护
+concern
+关心, 忧虑, 有关, 关系, 虑, 干
+interest
+关心, 趣味, 注意
+be concerned about
+关心, 悬念, 记挂, 挂心
+regard
+视, 看待, 看作, 看成, 注重, 关心
+think
+认为, 想, 思考, 想到, 以为, 关心
+respect
+尊重, 关于, 遵守, 尊敬, 敬, 关心
+关心-adjective
+concerned
+关心, 忧虑, 当事, 忧, 忧愁, 悒
+关心-noun
+attention
+注意, 关注, 注意力, 关心, 意思, 意兴
+heed
+注意, 关心, 注意力, 关怀
+
+诚实-adjective
+honest
+诚实, 诚, 老实, 正直, 坦白, 淳朴
+truthful
+真实, 诚实, 恂, 笃, 义, 顒
+honourable
+体面, 光彩, 诚实, 义, 懿, 公
+诚实-noun
+honesty
+诚实, 信实, 忱
+
+
+善意-noun
+goodwill
+善意, 信誉, 美意, 情意
+good intention
+善意, 好意, 好心
+
+对待-verb
+treat
+治疗, 对待, 处理, 看待, 医治, 待
+serve
+服务, 服侍, 服, 帮助, 服役, 对待
+对待-noun
+treatment
+治疗, 待遇, 对待, 治, 疗法, 医
+
+其实-adverb
+in fact
+其实
+as a matter of fact
+其实
+actually
+其实, 事实上, 竟, 竟然, 究竟, 才
+really
+真, 确实, 实在, 的确, 其实, 果然
+
+只要-phrase
+as long as
+
+起来-verb
+stand up
+起立, 起来, 顶住, 抵抗, 顶, 谡
+起来-noun
+upward movement
+起来
+beginning an action
+起来
+
+晚餐-noun
+dinner
+晚餐, 晚饭, 席
+supper
+晚餐, 晚饭, 飧
+evening meal
+晚餐, 哺
+
+
+什么-adjective
+what
+什么, 哪, 奚
+
+古往今来-phrase
+through the ages
+
+多少-adjective
+how many
+多少
+多少-noun
+number
+编号, 数, 号, 号码, 数目, 多少
+amount
+量, 额, 数量, 数目, 多少, 数字
+多少-adverb
+how much
+多少, 几
+
+成功者-noun
+winners
+
+人们-noun
+people
+人, 人民, 人们, 民, 民众, 民族
+folk
+人, 人们, 人家, 众人
+
+赞赏-verb
+praise
+赞美, 称赞, 赞扬, 表扬, 赞, 赞赏
+laud
+赞美, 赞扬, 赞赏, 揄扬, 赞, 褒扬
+panegyrize
+赞美, 褒扬, 揄扬, 赞, 赞赏, 赞扬
+belaud
+赞扬, 赞美, 赞, 赞赏
+eulogize
+讴歌, 赞美, 称颂, 赞, 颂, 赞赏
+incense
+揄扬, 赞, 赞美, 赞赏, 赞扬
+rhapsodize
+揄扬, 赞美, 赞, 赞赏, 赞扬, 作狂想曲
+赞赏-noun
+admiration
+钦佩, 赞赏
+laud
+赞美, 赞扬, 赞赏, 赞
+glorification
+赞美, 赞扬, 颂, 赞, 赞赏, 誉
+laudation
+赞美, 颂, 誉, 赞, 赞赏, 赞扬
+gloat
+幸灾乐祸, 赞赏
+emblazonment
+誉, 赞, 赞美, 赞赏, 赞扬
+emblazonry
+誉, 赞, 赞赏
+magnification
+放大, 放大率, 揄扬, 赞, 赞美, 赞赏

@@ -1,0 +1,7 @@
+You can run our translator by running:
+    cd code && python3 translate.py
+
+Note: This requires Python 3 to be installed.
+
+Thank you for grading our project. 
+ -Clay, Evan, and Yitao
